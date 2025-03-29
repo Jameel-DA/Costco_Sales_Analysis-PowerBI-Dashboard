@@ -1,0 +1,1618 @@
+product_id,product_name,category,sub_category,unit_price,cogs
+PD-1,"Aguirre, Lamb and Morris orchestrate",Office Supplies,Binders,23.11,9.45
+PD-2,"Robinson, Cole and Christian generate",Furniture,Bookcases,18.63,5.77
+PD-3,"Miller, Hampton and Harris revolutionize",Office Supplies,Paper,7.39,3.07
+PD-4,Foley-Rosario drive,Technology,Phones,27.99,10.75
+PD-5,Moss-Hobbs embrace,Technology,Accessories,27.2,15.71
+PD-6,Berry LLC harness,Office Supplies,Envelopes,13.77,6.31
+PD-7,"Huynh, Vasquez and Chandler maximize",Technology,Accessories,24.88,5.49
+PD-8,"Scott, Rodriguez and Arroyo synergize",Technology,Phones,24.4,10.01
+PD-9,Cunningham-Williams synthesize,Office Supplies,Storage,29.14,7.25
+PD-10,Evans-Bauer iterate,Furniture,Furnishings,4.88,2.39
+PD-11,Garza Ltd brand,Office Supplies,Fasteners,24.8,9.5
+PD-12,Johnson Inc matrix,Technology,Phones,29.26,9.46
+PD-13,Taylor-Serrano envisioneer,Furniture,Chairs,17.21,7.8
+PD-14,"Beck, Soto and Mcfarland evolve",Office Supplies,Envelopes,5.15,2.97
+PD-15,Nguyen-Davis orchestrate,Technology,Accessories,23.97,7.46
+PD-16,Sosa PLC unleash,Office Supplies,Envelopes,9.24,2.01
+PD-17,"Cain, Miller and Huang innovate",Office Supplies,Paper,3.84,1.28
+PD-18,Ballard and Sons embrace,Furniture,Furnishings,21.25,6.47
+PD-19,Vasquez-Mitchell engage,Office Supplies,Envelopes,19.87,7.21
+PD-20,Garcia-Harper re-intermediate,Technology,Phones,8.86,2.13
+PD-21,Ortiz LLC target,Furniture,Chairs,11.29,2.43
+PD-22,Torres-Williams matrix,Technology,Phones,9.45,2.17
+PD-23,Willis-Garcia repurpose,Technology,Phones,4.53,1.56
+PD-24,"Brown, Crawford and Thomas streamline",Furniture,Chairs,24.92,14.63
+PD-25,"Arnold, Smith and Wolfe disintermediate",Furniture,Bookcases,10.84,5.72
+PD-26,Baker Inc facilitate,Technology,Accessories,24.83,11.93
+PD-27,Anderson Group exploit,Furniture,Bookcases,23.75,5.6
+PD-28,"White, Gay and Jones revolutionize",Furniture,Bookcases,28.95,6.64
+PD-29,"Mckee, Morgan and Duncan reinvent",Furniture,Bookcases,15.63,6.46
+PD-30,Stewart Inc target,Furniture,Chairs,9.75,3.73
+PD-31,"Berry, Medina and Cunningham incentivize",Technology,Accessories,21.74,7.99
+PD-32,"Gaines, Bradford and Payne target",Technology,Accessories,14.12,3.43
+PD-33,"Ortiz, Alexander and Phillips synthesize",Office Supplies,Envelopes,7.8,2.46
+PD-34,Cherry-Boyer embrace,Technology,Accessories,16.23,7.65
+PD-35,Moreno Ltd drive,Technology,Phones,14.43,8.35
+PD-36,"Bishop, Morgan and Carter orchestrate",Furniture,Furnishings,10.33,3.51
+PD-37,Austin and Sons matrix,Office Supplies,Art,14.58,5.52
+PD-38,Lewis-Cardenas brand,Office Supplies,Paper,16.28,4.72
+PD-39,"Nichols, Miller and Small implement",Furniture,Bookcases,16.5,8.83
+PD-40,Odom-Fuentes deliver,Furniture,Chairs,27.87,7.68
+PD-41,"Ellis, Torres and Doyle matrix",Furniture,Furnishings,18.39,6.47
+PD-42,Marsh Ltd orchestrate,Office Supplies,Fasteners,4.51,1.66
+PD-43,"Barton, Harper and Jenkins maximize",Furniture,Bookcases,16.71,5.26
+PD-44,Brewer-Miller scale,Furniture,Furnishings,17.9,4.55
+PD-45,Eaton Group architect,Technology,Accessories,16.55,4.4
+PD-46,Hughes LLC repurpose,Office Supplies,Envelopes,3.74,1.85
+PD-47,"Mcfarland, Roth and Rodriguez innovate",Office Supplies,Storage,13.49,5.61
+PD-48,"West, Ingram and Rhodes deliver",Technology,Accessories,24.13,10.68
+PD-49,Mcclain LLC empower,Furniture,Bookcases,2.72,1.34
+PD-50,Shah-Cruz synergize,Office Supplies,Envelopes,29.18,11.18
+PD-51,Harris-Bautista scale,Technology,Accessories,24.34,11.24
+PD-52,Morris Inc e-enable,Technology,Phones,24.94,6.16
+PD-53,Johnson and Sons engage,Technology,Phones,20.27,10.23
+PD-54,"Mcbride, Carter and Mccann deploy",Office Supplies,Fasteners,17.29,3.73
+PD-55,"Frazier, Baker and Davidson unleash",Technology,Accessories,23.31,6.84
+PD-56,Johnson-Johnson transform,Technology,Phones,8.43,2.87
+PD-57,"Reyes, Diaz and Stein revolutionize",Office Supplies,Paper,24.4,13.95
+PD-58,Randall-Miller target,Office Supplies,Art,29.97,17.92
+PD-59,"Simmons, Williams and Booker visualize",Furniture,Chairs,2.38,1.11
+PD-60,Bond and Sons generate,Furniture,Bookcases,21.98,5.86
+PD-61,Chavez and Sons utilize,Office Supplies,Paper,21.51,7.01
+PD-62,"Mills, Smith and Robinson generate",Furniture,Furnishings,19.58,4.85
+PD-63,"Patterson, Henderson and Barton envisioneer",Office Supplies,Binders,9.07,2.9
+PD-64,Little Ltd seize,Furniture,Chairs,4.76,2.82
+PD-65,Cisneros and Sons utilize,Office Supplies,Art,10.64,2.46
+PD-66,Foster-Leach strategize,Office Supplies,Fasteners,9.85,3.52
+PD-67,Grant-Boyd harness,Office Supplies,Paper,16.72,4.44
+PD-68,Murphy PLC leverage,Office Supplies,Paper,3.64,1.53
+PD-69,Velazquez and Sons enable,Office Supplies,Art,16.81,4.43
+PD-70,Spencer-Flores drive,Technology,Accessories,27.24,15.16
+PD-71,Sanders-Wood mesh,Office Supplies,Storage,3.87,1.72
+PD-72,Goodman LLC embrace,Technology,Accessories,12.11,6.23
+PD-73,Key Ltd mesh,Furniture,Furnishings,28.23,9.15
+PD-74,Collins-Morgan transition,Furniture,Chairs,23.0,11.81
+PD-75,Woods PLC leverage,Furniture,Chairs,29.26,15.54
+PD-76,Parker-Thomas optimize,Technology,Accessories,27.89,14.98
+PD-77,Robinson-Beard embrace,Technology,Accessories,12.59,4.45
+PD-78,Smith LLC enable,Furniture,Chairs,14.68,4.36
+PD-79,Dixon-Graham target,Technology,Phones,22.59,9.39
+PD-80,Walton-Hunt mesh,Furniture,Furnishings,19.28,7.8
+PD-81,Hansen-Mcclure syndicate,Office Supplies,Fasteners,14.96,4.95
+PD-82,Sanchez PLC aggregate,Furniture,Furnishings,29.52,5.93
+PD-83,"Lopez, Dalton and Johnson transition",Office Supplies,Fasteners,22.76,5.83
+PD-84,Gonzalez-Braun transition,Office Supplies,Storage,9.36,3.43
+PD-85,Rose LLC syndicate,Technology,Accessories,11.42,6.8
+PD-86,"Hoffman, Richards and Holmes orchestrate",Technology,Phones,9.96,5.78
+PD-87,Young-Beck target,Technology,Accessories,3.56,0.8
+PD-88,"Robinson, Chung and Adams mesh",Technology,Accessories,23.42,13.07
+PD-89,Pham-Beck engage,Technology,Accessories,19.56,4.88
+PD-90,"Johnson, Sullivan and Dominguez leverage",Technology,Accessories,16.98,3.8
+PD-91,"Lewis, Armstrong and White disintermediate",Office Supplies,Paper,11.14,6.49
+PD-92,"Holland, Hurst and Anderson empower",Furniture,Furnishings,18.89,6.73
+PD-93,"Miles, Keller and Hodge iterate",Office Supplies,Paper,24.44,10.4
+PD-94,Hunter-White iterate,Furniture,Furnishings,9.82,2.1
+PD-95,"Dixon, Atkins and Moore grow",Technology,Phones,4.28,2.55
+PD-96,Lewis-Lee streamline,Technology,Accessories,28.25,12.25
+PD-97,Bowers LLC matrix,Technology,Phones,29.34,6.78
+PD-98,Conley and Sons maximize,Technology,Accessories,18.19,6.92
+PD-99,Hurley and Sons optimize,Technology,Phones,8.25,2.76
+PD-100,Krueger PLC disintermediate,Office Supplies,Storage,12.45,6.16
+PD-101,"Hooper, Maxwell and Vargas repurpose",Technology,Accessories,10.91,6.26
+PD-102,"Mercado, Young and Burns incentivize",Furniture,Furnishings,30.4,9.59
+PD-103,"Brooks, Allison and Campbell productize",Technology,Phones,9.69,5.11
+PD-104,Woods-Gonzalez orchestrate,Furniture,Furnishings,16.01,6.1
+PD-105,"Johnson, Pugh and Rasmussen harness",Office Supplies,Art,22.11,11.85
+PD-106,Chavez and Sons monetize,Office Supplies,Paper,11.31,5.6
+PD-107,Taylor-Hamilton maximize,Office Supplies,Fasteners,29.91,15.96
+PD-108,Parks-Thompson unleash,Office Supplies,Fasteners,13.82,7.21
+PD-109,"Campbell, Robles and Galvan engage",Office Supplies,Binders,11.42,3.64
+PD-110,"Wright, Yates and Sullivan expedite",Technology,Phones,19.77,10.35
+PD-111,Villanueva and Sons e-enable,Furniture,Chairs,27.84,7.69
+PD-112,Maddox LLC benchmark,Furniture,Furnishings,14.87,8.22
+PD-113,Lee-Hernandez enhance,Technology,Accessories,3.78,1.97
+PD-114,Stewart-Doyle matrix,Office Supplies,Binders,26.38,8.1
+PD-115,Barnes-Miller scale,Technology,Phones,28.22,9.12
+PD-116,"Smith, Ruiz and White matrix",Office Supplies,Fasteners,15.05,5.51
+PD-117,Chavez-Obrien exploit,Furniture,Bookcases,5.61,1.26
+PD-118,"Sexton, Howard and Pope transition",Office Supplies,Fasteners,2.77,1.55
+PD-119,Moreno-Ali deploy,Furniture,Bookcases,5.07,1.02
+PD-120,Pace Group maximize,Office Supplies,Art,22.54,4.63
+PD-121,"Moreno, Elliott and Nguyen grow",Technology,Phones,23.49,14.01
+PD-122,Wyatt Inc optimize,Technology,Accessories,25.61,11.1
+PD-123,"Butler, Larsen and Davis incubate",Office Supplies,Storage,10.78,5.23
+PD-124,Montgomery and Sons transform,Office Supplies,Storage,26.99,7.38
+PD-125,Schmidt Group synergize,Office Supplies,Fasteners,19.76,7.6
+PD-126,Lee-Williams aggregate,Technology,Accessories,6.87,4.1
+PD-127,Moore-Sanchez exploit,Furniture,Furnishings,3.88,1.72
+PD-128,Wyatt LLC optimize,Office Supplies,Storage,14.2,5.97
+PD-129,"Howard, Edwards and Swanson expedite",Office Supplies,Envelopes,22.83,10.56
+PD-130,Flowers-Garcia monetize,Technology,Accessories,13.71,3.35
+PD-131,"Scott, Lawrence and Morris orchestrate",Furniture,Furnishings,19.3,9.89
+PD-132,"Terry, Miles and Walker transform",Technology,Phones,13.25,5.09
+PD-133,Cruz-Munoz engage,Office Supplies,Envelopes,3.04,0.62
+PD-134,Yates LLC facilitate,Furniture,Chairs,25.75,9.08
+PD-135,"Brock, Small and Luna repurpose",Office Supplies,Binders,7.46,1.89
+PD-136,Hensley-Vance target,Furniture,Bookcases,26.22,5.64
+PD-137,"Reynolds, Cantu and Smith syndicate",Furniture,Furnishings,11.41,2.59
+PD-138,"Green, Wallace and Sanchez innovate",Furniture,Bookcases,22.85,12.38
+PD-139,Lynn Ltd leverage,Furniture,Furnishings,20.06,6.4
+PD-140,"Mendez, Patel and Garcia enable",Office Supplies,Fasteners,30.33,7.58
+PD-141,Owens-Bailey harness,Office Supplies,Fasteners,8.75,3.56
+PD-142,Williams-Sanders deliver,Furniture,Chairs,25.63,12.25
+PD-143,Baker Inc benchmark,Furniture,Furnishings,7.53,1.62
+PD-144,"Wright, Merritt and Wolfe enable",Technology,Accessories,4.75,1.03
+PD-145,"Moore, Bass and Davis deliver",Furniture,Furnishings,9.34,4.97
+PD-146,"Smith, Duncan and Guzman generate",Furniture,Bookcases,9.55,2.51
+PD-147,Cruz-Warren redefine,Office Supplies,Envelopes,16.09,6.16
+PD-148,"Young, Melton and Weber revolutionize",Furniture,Bookcases,6.89,3.93
+PD-149,Edwards-Pugh architect,Furniture,Chairs,27.86,11.07
+PD-150,Berry-Adams whiteboard,Technology,Phones,11.03,2.84
+PD-151,"Johnson, Cherry and Douglas innovate",Furniture,Bookcases,25.78,5.52
+PD-152,Weaver-Elliott e-enable,Office Supplies,Binders,9.97,3.21
+PD-153,Smith Ltd exploit,Furniture,Bookcases,25.43,14.02
+PD-154,Lucas-Lowery engage,Furniture,Furnishings,15.43,6.29
+PD-155,"Nolan, Lawson and Horton re-contextualize",Furniture,Bookcases,16.3,6.31
+PD-156,"Kennedy, Davis and Skinner mesh",Office Supplies,Paper,26.52,13.63
+PD-157,Thompson-Mckenzie brand,Technology,Phones,5.93,2.0
+PD-158,Rangel-Phillips facilitate,Furniture,Furnishings,24.71,6.18
+PD-159,Medina-Wolf repurpose,Office Supplies,Binders,26.66,10.33
+PD-160,Sanchez-Miller transition,Furniture,Bookcases,20.18,11.99
+PD-161,Downs Group morph,Furniture,Bookcases,14.69,6.99
+PD-162,Jenkins Inc innovate,Technology,Phones,18.68,11.08
+PD-163,Mullins Group strategize,Technology,Accessories,8.32,3.19
+PD-164,Rose-Wiley exploit,Office Supplies,Paper,5.71,1.23
+PD-165,Williams-Ross incentivize,Office Supplies,Fasteners,3.5,1.88
+PD-166,May Group incentivize,Technology,Phones,7.91,3.42
+PD-167,"Diaz, Pitts and Andersen disintermediate",Technology,Phones,8.67,4.26
+PD-168,Molina PLC e-enable,Technology,Phones,26.34,7.58
+PD-169,"Lloyd, Becker and Farmer whiteboard",Furniture,Chairs,5.86,2.26
+PD-170,Chavez Inc embrace,Technology,Phones,14.68,8.15
+PD-171,"Anderson, Bartlett and Wise synergize",Technology,Accessories,24.61,7.9
+PD-172,"Lopez, Knight and Gonzalez mesh",Office Supplies,Binders,30.0,16.96
+PD-173,"Hamilton, Castillo and Strickland utilize",Technology,Phones,5.6,2.77
+PD-174,Robertson Ltd strategize,Furniture,Furnishings,18.57,10.11
+PD-175,"Williams, Young and Benson seize",Furniture,Bookcases,27.73,9.68
+PD-176,"Johnson, Graham and Clark architect",Office Supplies,Paper,26.47,15.7
+PD-177,Harrison-Mcintyre strategize,Office Supplies,Paper,4.88,2.4
+PD-178,Paul Inc transition,Technology,Accessories,17.92,7.94
+PD-179,"Jimenez, Adams and Smith grow",Office Supplies,Binders,25.52,5.53
+PD-180,"Ross, Clark and Mills disintermediate",Technology,Phones,6.78,2.92
+PD-181,Francis-Harris utilize,Office Supplies,Fasteners,25.32,7.9
+PD-182,"Scott, Rodriguez and Wells seize",Furniture,Chairs,13.57,3.07
+PD-183,Bates PLC revolutionize,Technology,Phones,27.09,13.84
+PD-184,Hall Inc e-enable,Technology,Accessories,13.76,3.96
+PD-185,Duncan Group embrace,Office Supplies,Art,25.15,6.59
+PD-186,Ryan-Carroll redefine,Technology,Accessories,15.29,5.89
+PD-187,"Thompson, Thompson and Chapman revolutionize",Office Supplies,Envelopes,8.53,3.72
+PD-188,Phillips-Smith deliver,Technology,Accessories,17.82,10.68
+PD-189,Curtis-Miller integrate,Technology,Phones,7.56,2.17
+PD-190,Avila and Sons engineer,Technology,Accessories,29.9,12.7
+PD-191,Baxter-Hernandez incentivize,Technology,Accessories,28.95,13.5
+PD-192,Cantu LLC revolutionize,Office Supplies,Art,7.44,1.89
+PD-193,Armstrong LLC re-contextualize,Furniture,Bookcases,21.2,12.39
+PD-194,Sloan-Mason evolve,Technology,Phones,30.32,17.84
+PD-195,Oliver-Larson whiteboard,Technology,Phones,21.17,4.82
+PD-196,Rodriguez LLC harness,Technology,Phones,20.24,6.17
+PD-197,"Lewis, Morrow and Richardson facilitate",Office Supplies,Storage,16.93,9.42
+PD-198,"Long, Gardner and Small implement",Furniture,Chairs,3.39,1.51
+PD-199,Williams-Heath extend,Office Supplies,Binders,26.08,12.78
+PD-200,"Collins, Jordan and Lester orchestrate",Technology,Accessories,22.58,10.68
+PD-201,Martin Ltd monetize,Furniture,Bookcases,23.11,11.68
+PD-202,Morrow-Orozco harness,Office Supplies,Art,8.88,5.31
+PD-203,Werner LLC visualize,Office Supplies,Binders,25.91,11.91
+PD-204,"Williams, Obrien and Carter engage",Office Supplies,Fasteners,3.29,1.06
+PD-205,Carroll Ltd engage,Furniture,Furnishings,26.78,13.3
+PD-206,"Goodman, Wood and Jackson aggregate",Office Supplies,Fasteners,25.71,15.23
+PD-207,Henderson-Farley expedite,Furniture,Furnishings,18.91,4.78
+PD-208,Davis-Reilly revolutionize,Furniture,Bookcases,15.73,3.22
+PD-209,Parker-Farmer seize,Technology,Accessories,27.73,12.17
+PD-210,"Williams, Morris and Madden iterate",Office Supplies,Storage,25.91,8.67
+PD-211,Dalton PLC re-contextualize,Furniture,Bookcases,8.68,1.84
+PD-212,Charles-Peters enhance,Technology,Accessories,20.32,10.6
+PD-213,Wells-Ryan leverage,Furniture,Furnishings,22.79,12.97
+PD-214,Phelps-White brand,Furniture,Furnishings,16.59,7.59
+PD-215,"Pratt, Smith and Delgado transform",Technology,Phones,17.89,8.24
+PD-216,Martinez-Montgomery engage,Technology,Accessories,13.43,5.78
+PD-217,"Holmes, Diaz and Patterson generate",Technology,Phones,2.95,0.95
+PD-218,Frederick and Sons envisioneer,Office Supplies,Envelopes,27.29,12.11
+PD-219,Johnson Group generate,Furniture,Chairs,18.36,5.74
+PD-220,Reynolds-Reid aggregate,Office Supplies,Envelopes,23.57,8.76
+PD-221,Burns Group e-enable,Office Supplies,Storage,29.53,7.6
+PD-222,Wright-Cox matrix,Office Supplies,Binders,2.98,1.39
+PD-223,Sosa-Edwards benchmark,Office Supplies,Fasteners,14.72,8.69
+PD-224,Hudson LLC implement,Furniture,Chairs,28.39,6.48
+PD-225,Simon Group synthesize,Technology,Accessories,19.57,6.84
+PD-226,Lopez-Owens synthesize,Furniture,Chairs,24.67,14.09
+PD-227,Noble and Sons productize,Office Supplies,Paper,23.06,10.47
+PD-228,"Russell, Mejia and Schneider target",Office Supplies,Storage,26.8,11.51
+PD-229,Todd-Rojas extend,Technology,Accessories,21.15,7.54
+PD-230,Strickland Ltd cultivate,Office Supplies,Paper,7.96,3.84
+PD-231,Cox-Morales unleash,Furniture,Chairs,7.57,1.54
+PD-232,"Molina, Frank and Price morph",Technology,Accessories,15.66,5.13
+PD-233,"Carrillo, Monroe and Anderson mesh",Technology,Phones,16.02,8.44
+PD-234,Chen-Lee envisioneer,Technology,Accessories,6.77,3.1
+PD-235,Ruiz and Sons optimize,Office Supplies,Art,19.05,11.38
+PD-236,"Powell, Carter and Huber reinvent",Technology,Phones,12.36,4.04
+PD-237,"Wood, Thompson and Black expedite",Technology,Phones,13.28,7.73
+PD-238,"Rogers, Schultz and King streamline",Furniture,Furnishings,14.14,5.56
+PD-239,Scott-Dawson streamline,Technology,Accessories,12.01,4.73
+PD-240,Lara PLC unleash,Office Supplies,Art,10.38,5.37
+PD-241,"Patton, Neal and Roberts repurpose",Technology,Phones,4.96,1.64
+PD-242,"Peters, Dennis and Smith facilitate",Technology,Accessories,4.38,2.35
+PD-243,Jacobs LLC matrix,Technology,Phones,5.09,2.3
+PD-244,"Byrd, Myers and Espinoza empower",Furniture,Furnishings,9.34,4.96
+PD-245,"Collins, Peterson and Thomas facilitate",Technology,Accessories,22.28,12.64
+PD-246,Diaz and Sons architect,Office Supplies,Storage,2.93,1.03
+PD-247,Conner-Roman cultivate,Furniture,Chairs,22.16,6.66
+PD-248,Hartman-Collier expedite,Technology,Phones,29.14,12.25
+PD-249,Rodriguez Inc generate,Office Supplies,Binders,2.26,0.78
+PD-250,Wood PLC aggregate,Technology,Accessories,22.01,6.54
+PD-251,Obrien-Mcintyre expedite,Technology,Accessories,15.61,5.92
+PD-252,Jordan Group deliver,Office Supplies,Binders,7.15,2.95
+PD-253,"Hampton, Long and Harrington seize",Furniture,Bookcases,28.75,9.64
+PD-254,Vega-Sweeney architect,Technology,Accessories,15.88,5.76
+PD-255,"Rodriguez, Huang and Riley disintermediate",Office Supplies,Paper,26.06,13.48
+PD-256,"Patel, Evans and Wagner innovate",Office Supplies,Envelopes,28.04,9.53
+PD-257,Clark PLC disintermediate,Furniture,Furnishings,28.51,15.23
+PD-258,Romero-Lopez facilitate,Technology,Accessories,13.91,7.27
+PD-259,"Smith, Phillips and Harris scale",Office Supplies,Fasteners,19.73,10.01
+PD-260,Rodriguez Inc aggregate,Furniture,Furnishings,18.02,8.83
+PD-261,Nguyen-Wallace synergize,Technology,Phones,15.44,4.43
+PD-262,"Harrison, Fowler and Dickson utilize",Technology,Phones,28.58,12.72
+PD-263,"Spencer, Humphrey and Williamson scale",Furniture,Chairs,28.59,6.61
+PD-264,Clark-Nguyen re-contextualize,Furniture,Furnishings,17.12,5.15
+PD-265,Martin and Sons monetize,Technology,Accessories,3.82,1.29
+PD-266,Durham-Anderson empower,Office Supplies,Storage,28.73,6.89
+PD-267,Larson-Morton engineer,Office Supplies,Storage,14.72,8.04
+PD-268,Tran-Hodge disintermediate,Technology,Accessories,11.07,5.01
+PD-269,Lucero and Sons generate,Furniture,Chairs,20.48,9.85
+PD-270,"Clements, Copeland and Wiley repurpose",Furniture,Furnishings,11.1,3.86
+PD-271,"Swanson, Preston and Ramos reinvent",Technology,Accessories,10.55,6.24
+PD-272,"Suarez, Wood and Campbell matrix",Furniture,Chairs,27.31,7.48
+PD-273,Davis-Martin grow,Furniture,Furnishings,29.73,14.63
+PD-274,Murphy PLC brand,Office Supplies,Art,20.24,5.31
+PD-275,Reed-Wise empower,Technology,Phones,26.14,7.85
+PD-276,"Jones, Nicholson and Brown enhance",Furniture,Bookcases,29.16,14.87
+PD-277,"Wells, Atkinson and Wyatt matrix",Furniture,Furnishings,16.96,7.98
+PD-278,Hughes PLC brand,Furniture,Chairs,23.41,7.67
+PD-279,Walker Group synergize,Furniture,Bookcases,16.18,6.03
+PD-280,Hernandez Group scale,Technology,Accessories,22.02,6.96
+PD-281,"Moran, Price and Flowers re-intermediate",Furniture,Chairs,20.82,4.74
+PD-282,"Johnson, Snow and Burke transition",Furniture,Furnishings,20.55,11.15
+PD-283,"Gonzalez, Watson and Henry disintermediate",Office Supplies,Paper,15.73,5.83
+PD-284,Weaver Inc re-contextualize,Furniture,Chairs,11.3,5.32
+PD-285,Bates-Steele architect,Technology,Phones,21.45,12.59
+PD-286,Mathis-Johnson leverage,Technology,Phones,10.33,4.06
+PD-287,Dunn LLC syndicate,Office Supplies,Fasteners,3.71,1.14
+PD-288,"Lewis, Glenn and Madden target",Office Supplies,Fasteners,27.08,11.33
+PD-289,Brown Ltd cultivate,Office Supplies,Binders,19.38,9.86
+PD-290,Obrien and Sons incubate,Office Supplies,Storage,19.84,9.3
+PD-291,Lane-Patterson synergize,Furniture,Chairs,11.31,3.5
+PD-292,Cooper-Moore optimize,Office Supplies,Envelopes,4.17,1.72
+PD-293,"Strong, Clark and Stone generate",Office Supplies,Binders,23.46,4.7
+PD-294,"Mitchell, Frederick and Jensen visualize",Technology,Accessories,21.53,8.49
+PD-295,"Taylor, Barnes and Curtis architect",Office Supplies,Fasteners,19.02,11.25
+PD-296,Oneill Inc incentivize,Furniture,Bookcases,25.79,13.51
+PD-297,Huynh-Hall innovate,Office Supplies,Paper,16.24,3.37
+PD-298,Jones-Krueger whiteboard,Office Supplies,Fasteners,25.38,9.09
+PD-299,Burns Group target,Office Supplies,Paper,16.27,9.48
+PD-300,Hall-Ritter implement,Technology,Phones,20.92,10.82
+PD-301,Baker-Williams iterate,Technology,Accessories,19.85,5.44
+PD-302,"Bruce, Woods and Johnson enable",Technology,Accessories,19.39,5.99
+PD-303,Ruiz and Sons evolve,Furniture,Bookcases,26.68,11.96
+PD-304,Burton-Price innovate,Office Supplies,Fasteners,12.2,4.31
+PD-305,"Osborne, Collins and Joseph productize",Technology,Accessories,17.0,9.07
+PD-306,Chandler-Schneider deploy,Furniture,Furnishings,26.89,7.13
+PD-307,"Blankenship, Robinson and Mendoza leverage",Furniture,Bookcases,22.2,12.38
+PD-308,"Taylor, Lucero and Lewis innovate",Office Supplies,Storage,16.05,8.47
+PD-309,Sullivan Ltd revolutionize,Office Supplies,Fasteners,10.54,3.35
+PD-310,Nelson Ltd synergize,Office Supplies,Paper,15.61,3.66
+PD-311,Snyder Inc iterate,Furniture,Bookcases,14.95,8.04
+PD-312,Hughes PLC reinvent,Technology,Accessories,10.38,3.53
+PD-313,Oliver Group transition,Technology,Phones,12.86,4.55
+PD-314,"Berger, Hayes and Williams brand",Furniture,Furnishings,7.22,4.12
+PD-315,"Martinez, Kaufman and Anderson streamline",Technology,Accessories,25.02,7.28
+PD-316,Oliver Inc incubate,Technology,Accessories,29.25,6.46
+PD-317,Erickson-Waller orchestrate,Office Supplies,Binders,17.24,5.44
+PD-318,Allen Ltd strategize,Technology,Accessories,18.23,4.43
+PD-319,Mccarthy-Downs architect,Technology,Accessories,17.27,4.5
+PD-320,"Young, Moore and Coleman incubate",Office Supplies,Art,21.19,11.6
+PD-321,Bush-Ford enhance,Furniture,Bookcases,7.84,3.24
+PD-322,Escobar-Evans visualize,Office Supplies,Envelopes,24.97,12.76
+PD-323,Chambers Group evolve,Office Supplies,Art,6.98,3.05
+PD-324,"Cisneros, Ortega and Montgomery iterate",Furniture,Furnishings,21.22,4.75
+PD-325,Tucker and Sons brand,Technology,Accessories,5.85,2.71
+PD-326,Munoz-Stewart repurpose,Technology,Accessories,10.14,3.79
+PD-327,Lopez-Lewis target,Furniture,Bookcases,13.2,5.52
+PD-328,"Robinson, Brown and Cherry innovate",Technology,Phones,18.65,5.6
+PD-329,Price LLC visualize,Furniture,Chairs,2.43,0.93
+PD-330,Simpson-Cross transition,Furniture,Furnishings,16.5,4.21
+PD-331,Stone-Jones e-enable,Office Supplies,Envelopes,5.62,3.27
+PD-332,Wright Group syndicate,Technology,Phones,19.04,10.23
+PD-333,Reed-Garcia whiteboard,Furniture,Chairs,24.1,12.65
+PD-334,Espinoza and Sons enhance,Office Supplies,Art,29.66,12.73
+PD-335,Murray and Sons synergize,Office Supplies,Fasteners,29.43,12.81
+PD-336,"Miller, Cabrera and Harrell implement",Technology,Phones,2.28,1.32
+PD-337,"Kirk, Hansen and Williams streamline",Office Supplies,Binders,7.84,2.8
+PD-338,Cline-Williamson extend,Office Supplies,Storage,28.59,16.52
+PD-339,"Bennett, Krause and Torres benchmark",Technology,Phones,28.06,13.53
+PD-340,"Kelley, Butler and Rodgers incentivize",Furniture,Furnishings,4.35,1.35
+PD-341,Sims LLC deploy,Furniture,Bookcases,3.3,0.91
+PD-342,Harris-Myers utilize,Office Supplies,Paper,8.81,4.41
+PD-343,Hickman-Jordan harness,Technology,Phones,26.14,10.07
+PD-344,"Hall, Moore and Wall streamline",Office Supplies,Art,27.7,15.02
+PD-345,"Miller, Bowman and Stewart leverage",Office Supplies,Envelopes,20.63,5.54
+PD-346,Li-Chambers scale,Technology,Phones,9.89,5.72
+PD-347,Downs PLC drive,Technology,Accessories,7.18,2.03
+PD-348,Malone-Brooks repurpose,Technology,Phones,10.69,6.32
+PD-349,Sanders and Sons exploit,Furniture,Furnishings,7.63,1.83
+PD-350,Rios Group disintermediate,Technology,Phones,26.07,11.17
+PD-351,Ramirez-Bowman matrix,Technology,Accessories,9.25,4.56
+PD-352,"Peters, Walter and Doyle integrate",Furniture,Furnishings,22.44,7.78
+PD-353,"Cline, Cabrera and Moore benchmark",Technology,Phones,17.8,4.5
+PD-354,Richardson Inc unleash,Technology,Phones,28.27,13.26
+PD-355,"Hunt, Gordon and Jones revolutionize",Technology,Phones,21.04,6.58
+PD-356,"Cole, Walls and White benchmark",Furniture,Chairs,7.78,2.62
+PD-357,Blanchard Group benchmark,Office Supplies,Fasteners,28.83,8.36
+PD-358,Moore Ltd embrace,Technology,Accessories,3.94,1.96
+PD-359,Elliott-Gibbs matrix,Office Supplies,Storage,12.25,6.58
+PD-360,"Mitchell, Gonzalez and White utilize",Office Supplies,Binders,3.24,0.88
+PD-361,Wong Ltd visualize,Office Supplies,Art,11.2,4.98
+PD-362,Bell-Kane re-contextualize,Office Supplies,Envelopes,19.52,5.02
+PD-363,Roberts LLC engage,Technology,Accessories,25.69,11.98
+PD-364,Holmes Inc monetize,Technology,Phones,21.92,9.57
+PD-365,Harmon-Brown optimize,Technology,Accessories,9.18,4.99
+PD-366,"Kidd, Brown and Stewart cultivate",Furniture,Furnishings,14.51,4.76
+PD-367,Phillips LLC utilize,Technology,Phones,17.78,4.84
+PD-368,Tran Ltd visualize,Office Supplies,Envelopes,12.07,4.45
+PD-369,"Mendoza, Bell and Mcclure enable",Technology,Phones,16.4,5.18
+PD-370,"Holloway, Armstrong and Collins architect",Furniture,Bookcases,10.48,4.25
+PD-371,Lewis-Stanley unleash,Office Supplies,Binders,19.42,4.72
+PD-372,Gutierrez Ltd architect,Furniture,Bookcases,20.15,8.61
+PD-373,"Travis, Ward and Yates integrate",Technology,Accessories,23.73,12.86
+PD-374,Gibson-Henry leverage,Office Supplies,Art,8.81,2.08
+PD-375,Pope Ltd exploit,Technology,Accessories,16.1,7.15
+PD-376,Bates Inc unleash,Furniture,Bookcases,15.32,3.53
+PD-377,"Smith, Davis and Reynolds empower",Technology,Accessories,23.78,10.71
+PD-378,Gutierrez LLC streamline,Office Supplies,Fasteners,12.24,6.08
+PD-379,Carter-Brown scale,Technology,Phones,13.3,4.69
+PD-380,Wright-Hughes transform,Technology,Phones,15.15,3.61
+PD-381,Mitchell PLC enhance,Office Supplies,Paper,29.33,6.52
+PD-382,Boyd-Williams harness,Office Supplies,Art,29.67,7.01
+PD-383,"Evans, Spencer and Jones whiteboard",Office Supplies,Art,24.72,14.07
+PD-384,Clark-Martin monetize,Technology,Accessories,23.36,7.55
+PD-385,White-Lee re-intermediate,Technology,Phones,27.24,11.62
+PD-386,Hill Group deploy,Technology,Accessories,4.57,1.37
+PD-387,Marshall-Mathews iterate,Furniture,Furnishings,17.65,5.19
+PD-388,Watkins-Rogers engage,Technology,Phones,4.48,1.0
+PD-389,Price Ltd seize,Technology,Accessories,29.75,11.63
+PD-390,Barnes-Mcgee re-intermediate,Furniture,Bookcases,5.01,1.98
+PD-391,Newman Inc re-contextualize,Office Supplies,Storage,25.94,14.29
+PD-392,Smith-Byrd embrace,Technology,Accessories,29.04,11.0
+PD-393,"Smith, Steele and Reid visualize",Technology,Phones,10.51,4.82
+PD-394,Garcia and Sons extend,Furniture,Bookcases,4.48,1.5
+PD-395,Baxter-Graham deliver,Office Supplies,Fasteners,23.78,12.52
+PD-396,"Anderson, Long and Marshall benchmark",Office Supplies,Envelopes,28.72,8.76
+PD-397,"Anderson, Schmidt and Austin repurpose",Furniture,Furnishings,19.32,5.76
+PD-398,Gonzales-Stewart cultivate,Office Supplies,Paper,23.22,9.59
+PD-399,Black-Mcdonald seize,Furniture,Bookcases,15.44,3.98
+PD-400,Mccarty-Thompson strategize,Office Supplies,Fasteners,19.12,6.85
+PD-401,Howard-Arnold envisioneer,Office Supplies,Binders,30.13,11.85
+PD-402,"Bailey, Fox and Guerra optimize",Office Supplies,Paper,29.7,12.8
+PD-403,Griffith Group orchestrate,Furniture,Bookcases,21.03,5.34
+PD-404,Walker-Proctor architect,Office Supplies,Envelopes,17.53,3.86
+PD-405,Jones Inc expedite,Technology,Phones,22.03,11.14
+PD-406,Deleon-Davis maximize,Office Supplies,Art,8.22,4.33
+PD-407,Lynch Group facilitate,Furniture,Chairs,25.89,9.95
+PD-408,"Pacheco, Mcdonald and Mcconnell architect",Furniture,Furnishings,13.45,4.89
+PD-409,Potter-Barry deliver,Office Supplies,Envelopes,13.3,4.14
+PD-410,Mayer LLC maximize,Technology,Phones,28.4,8.74
+PD-411,English-Cooper enable,Office Supplies,Storage,22.05,9.27
+PD-412,Parks LLC incubate,Technology,Accessories,28.99,15.82
+PD-413,Mueller-White deliver,Technology,Accessories,29.06,7.43
+PD-414,"Snow, Robinson and Chapman innovate",Furniture,Bookcases,20.21,6.95
+PD-415,Fernandez-Graham extend,Technology,Phones,12.29,5.21
+PD-416,Watkins-Berg iterate,Technology,Phones,26.34,10.62
+PD-417,Walker PLC integrate,Office Supplies,Envelopes,6.0,2.68
+PD-418,"Nicholson, Spence and Harper synergize",Furniture,Chairs,25.14,12.88
+PD-419,"Cooper, Lewis and Herrera scale",Office Supplies,Art,9.31,4.82
+PD-420,Ball LLC synthesize,Technology,Phones,2.48,0.71
+PD-421,"Levy, Myers and Hernandez brand",Technology,Accessories,4.21,2.46
+PD-422,Davis and Sons cultivate,Technology,Accessories,24.38,9.5
+PD-423,"Yoder, Williams and Allen reinvent",Technology,Accessories,15.94,7.98
+PD-424,Morgan Inc incubate,Furniture,Chairs,29.49,14.21
+PD-425,"Smith, Garza and Willis engineer",Technology,Phones,28.57,7.03
+PD-426,Wright LLC leverage,Furniture,Furnishings,14.19,4.46
+PD-427,Peters and Sons morph,Technology,Accessories,3.15,1.89
+PD-428,Conley-Smith harness,Furniture,Chairs,24.49,13.11
+PD-429,"Flowers, Griffin and Hanna harness",Office Supplies,Envelopes,10.1,5.68
+PD-430,"Decker, Grant and Robertson expedite",Technology,Phones,11.66,5.66
+PD-431,Johnson and Sons brand,Office Supplies,Storage,8.69,2.29
+PD-432,Adkins and Sons redefine,Furniture,Chairs,15.34,5.78
+PD-433,Meyer-Clark strategize,Technology,Accessories,13.67,7.96
+PD-434,Thomas LLC integrate,Technology,Phones,8.2,3.64
+PD-435,Wolf Group transform,Furniture,Bookcases,11.39,5.31
+PD-436,Gates-Haas mesh,Technology,Phones,8.71,2.76
+PD-437,Boyd-Dickson re-intermediate,Furniture,Bookcases,25.08,12.8
+PD-438,Ross PLC incentivize,Technology,Accessories,21.28,10.76
+PD-439,King PLC optimize,Furniture,Bookcases,3.1,1.73
+PD-440,Smith and Sons incentivize,Technology,Accessories,11.37,6.66
+PD-441,Hayes LLC scale,Furniture,Chairs,17.08,4.67
+PD-442,Nguyen-Callahan cultivate,Furniture,Bookcases,13.17,4.57
+PD-443,"Hernandez, Graham and Baird scale",Office Supplies,Art,10.58,3.15
+PD-444,Miller Inc enhance,Office Supplies,Paper,16.68,3.74
+PD-445,"Sanders, Ross and Wilkinson synergize",Furniture,Chairs,20.2,7.06
+PD-446,Green PLC incubate,Office Supplies,Paper,21.73,5.23
+PD-447,"Richards, Torres and Russell iterate",Office Supplies,Fasteners,22.81,10.72
+PD-448,Phillips-Hernandez matrix,Technology,Phones,17.1,7.29
+PD-449,Wheeler-Dixon extend,Office Supplies,Fasteners,28.66,12.75
+PD-450,"Dyer, Gardner and Hobbs integrate",Office Supplies,Storage,10.21,2.75
+PD-451,Bryant-Reynolds redefine,Furniture,Chairs,9.44,5.43
+PD-452,Meadows-Gomez seize,Technology,Accessories,25.08,8.33
+PD-453,Wilson PLC orchestrate,Office Supplies,Paper,10.9,4.97
+PD-454,Mitchell Group deploy,Office Supplies,Fasteners,18.05,6.79
+PD-455,Olsen-Martinez engineer,Office Supplies,Art,27.83,10.97
+PD-456,Dodson and Sons matrix,Furniture,Furnishings,14.82,3.25
+PD-457,Harris-Oneill brand,Technology,Phones,17.96,6.92
+PD-458,Jones-Meyer harness,Office Supplies,Art,21.74,7.94
+PD-459,Snyder Group e-enable,Furniture,Furnishings,26.77,11.81
+PD-460,"Sullivan, Smith and Moody cultivate",Furniture,Furnishings,15.68,7.0
+PD-461,Harrison-George leverage,Furniture,Bookcases,24.54,12.49
+PD-462,Rowe-Bell unleash,Technology,Phones,11.38,6.61
+PD-463,"Wolf, Davis and Grant re-intermediate",Office Supplies,Binders,2.7,1.05
+PD-464,Reed and Sons iterate,Technology,Accessories,12.0,5.87
+PD-465,Maynard PLC integrate,Technology,Phones,27.71,16.48
+PD-466,Krueger Inc brand,Technology,Phones,19.0,5.51
+PD-467,Brown LLC disintermediate,Office Supplies,Binders,17.37,5.15
+PD-468,"Rodriguez, Thomas and Hernandez envisioneer",Office Supplies,Art,27.93,6.38
+PD-469,"Carter, Wong and Mayer scale",Technology,Accessories,21.14,6.63
+PD-470,"Graham, Gray and Webster repurpose",Office Supplies,Envelopes,28.35,14.39
+PD-471,Thompson Ltd streamline,Office Supplies,Envelopes,20.93,4.8
+PD-472,"Ferguson, Smith and Martinez repurpose",Technology,Phones,23.55,10.25
+PD-473,"Smith, Weeks and Little whiteboard",Technology,Phones,14.79,5.14
+PD-474,Villegas and Sons iterate,Office Supplies,Storage,24.04,6.73
+PD-475,Martin-Cline synergize,Furniture,Furnishings,17.07,8.51
+PD-476,"Hayes, Potter and Fleming incubate",Furniture,Furnishings,24.78,13.75
+PD-477,Carter-Rodriguez productize,Technology,Phones,9.56,3.21
+PD-478,Bradford and Sons optimize,Technology,Phones,28.74,12.79
+PD-479,Smith PLC orchestrate,Technology,Accessories,22.92,10.57
+PD-480,Daugherty-Butler brand,Technology,Phones,12.48,3.65
+PD-481,Vincent Ltd leverage,Furniture,Chairs,25.38,13.54
+PD-482,Davis-Medina integrate,Office Supplies,Fasteners,4.3,2.25
+PD-483,Robinson-Baldwin innovate,Furniture,Furnishings,11.88,4.92
+PD-484,"Mayo, Leonard and Mason seize",Furniture,Chairs,24.13,10.76
+PD-485,Park-Kelly transform,Technology,Accessories,8.76,5.13
+PD-486,"Hooper, Perez and Downs grow",Technology,Accessories,3.65,1.77
+PD-487,"King, Cochran and Smith transform",Furniture,Furnishings,16.45,5.94
+PD-488,Baxter LLC brand,Office Supplies,Storage,30.06,6.79
+PD-489,Lee-Stein implement,Furniture,Bookcases,17.56,6.23
+PD-490,"Liu, Carr and Woodard productize",Technology,Accessories,16.86,3.93
+PD-491,Blake-Fields unleash,Office Supplies,Paper,13.19,3.7
+PD-492,Vega Inc monetize,Technology,Accessories,7.02,1.53
+PD-493,Hinton-Kennedy transition,Office Supplies,Envelopes,7.32,3.27
+PD-494,Hopkins Ltd reinvent,Technology,Phones,14.36,8.19
+PD-495,Nash Inc deploy,Office Supplies,Paper,19.33,9.57
+PD-496,"Martin, Khan and Espinoza morph",Office Supplies,Envelopes,12.84,5.67
+PD-497,"Robinson, Spencer and Howe maximize",Furniture,Furnishings,29.77,9.41
+PD-498,"Moran, Salinas and Fisher benchmark",Furniture,Chairs,22.15,8.5
+PD-499,"James, Chung and Johnson unleash",Technology,Phones,5.0,2.51
+PD-500,Brown-Schneider enable,Furniture,Bookcases,24.37,5.47
+PD-501,"Weber, Watkins and Huff synthesize",Office Supplies,Fasteners,26.1,6.53
+PD-502,Harris-Williams incentivize,Office Supplies,Envelopes,16.12,6.53
+PD-503,Sawyer-Lee grow,Furniture,Bookcases,16.09,9.24
+PD-504,Taylor-Roberts exploit,Technology,Phones,4.28,1.64
+PD-505,Patel-Long expedite,Technology,Accessories,27.95,9.5
+PD-506,Perkins-Long deploy,Furniture,Furnishings,11.46,4.38
+PD-507,"Wheeler, Avila and Figueroa integrate",Office Supplies,Envelopes,20.58,9.96
+PD-508,"Smith, Stewart and Turner disintermediate",Technology,Phones,28.03,11.67
+PD-509,Wright-Kent repurpose,Furniture,Chairs,18.33,6.03
+PD-510,Thomas PLC optimize,Technology,Accessories,24.12,5.69
+PD-511,Lewis Group syndicate,Technology,Phones,17.21,7.33
+PD-512,Rivera-Knight cultivate,Technology,Phones,16.78,8.36
+PD-513,Kelley Ltd target,Furniture,Bookcases,14.59,5.28
+PD-514,Bradley Group aggregate,Furniture,Chairs,8.98,2.33
+PD-515,"Reed, Robles and Steele incubate",Office Supplies,Storage,8.39,4.36
+PD-516,Stewart-Reese implement,Technology,Accessories,27.12,14.57
+PD-517,"Holland, Cochran and Thomas innovate",Technology,Accessories,26.82,7.29
+PD-518,Lynch-Gutierrez embrace,Furniture,Chairs,18.82,10.14
+PD-519,Valentine-Mccarthy harness,Furniture,Chairs,4.77,2.44
+PD-520,Harding-Stewart leverage,Furniture,Furnishings,16.18,8.09
+PD-521,Cross PLC streamline,Furniture,Bookcases,19.61,9.33
+PD-522,Lee-Nelson generate,Furniture,Bookcases,12.07,2.86
+PD-523,Wright-Martinez transform,Furniture,Chairs,18.96,10.87
+PD-524,"Friedman, Allen and Wilson harness",Office Supplies,Envelopes,13.97,4.41
+PD-525,"Green, Robles and Phillips harness",Furniture,Furnishings,15.73,3.87
+PD-526,"Shelton, Simpson and Martinez leverage",Technology,Phones,27.04,6.75
+PD-527,Hartman LLC productize,Technology,Accessories,21.96,6.09
+PD-528,Navarro Ltd architect,Technology,Accessories,4.28,1.21
+PD-529,Conway LLC transition,Furniture,Chairs,11.78,3.27
+PD-530,Holden-Snyder visualize,Furniture,Bookcases,15.86,4.73
+PD-531,Werner-Mcintosh implement,Office Supplies,Paper,27.69,13.86
+PD-532,Douglas and Sons syndicate,Office Supplies,Art,29.79,11.05
+PD-533,Wood Inc seize,Office Supplies,Envelopes,12.91,6.26
+PD-534,Turner and Sons seize,Furniture,Bookcases,17.23,8.51
+PD-535,Little PLC enhance,Technology,Accessories,15.74,8.73
+PD-536,"Moore, Turner and Roach iterate",Furniture,Chairs,17.01,6.8
+PD-537,Gonzales-Anderson unleash,Technology,Accessories,8.95,3.54
+PD-538,"Porter, Velazquez and Hernandez visualize",Technology,Accessories,7.38,3.06
+PD-539,Thomas-Willis redefine,Office Supplies,Storage,12.38,6.12
+PD-540,Frank Group aggregate,Office Supplies,Fasteners,7.3,4.15
+PD-541,Bond-Wood incubate,Office Supplies,Art,16.26,7.22
+PD-542,York-Reed monetize,Office Supplies,Paper,19.66,9.12
+PD-543,Young and Sons benchmark,Technology,Phones,21.93,12.43
+PD-544,Patel Ltd transition,Technology,Accessories,12.72,7.11
+PD-545,Meyer Ltd target,Furniture,Bookcases,18.27,8.55
+PD-546,"Murphy, Smith and Macias seize",Office Supplies,Art,10.28,5.52
+PD-547,Murphy-Bentley generate,Furniture,Furnishings,6.94,2.87
+PD-548,"Murphy, Harris and Grant exploit",Furniture,Furnishings,18.56,9.43
+PD-549,Anderson-Castillo incubate,Furniture,Bookcases,28.32,10.39
+PD-550,"Hicks, Harding and Lamb iterate",Technology,Phones,12.72,4.05
+PD-551,Michael-Barnes leverage,Furniture,Chairs,2.69,1.34
+PD-552,Olson-Stewart revolutionize,Technology,Accessories,6.25,3.02
+PD-553,Patton-Torres deploy,Office Supplies,Binders,8.48,2.46
+PD-554,Harper and Sons visualize,Office Supplies,Envelopes,28.76,5.84
+PD-555,Miller-Schmidt implement,Office Supplies,Envelopes,19.35,7.11
+PD-556,Mcclain-Harris implement,Technology,Phones,9.54,5.68
+PD-557,"Bell, Nelson and Garcia grow",Technology,Accessories,13.24,7.2
+PD-558,Mckee-George innovate,Office Supplies,Art,23.03,5.32
+PD-559,Dillon-Carson enable,Office Supplies,Envelopes,30.23,15.67
+PD-560,Sanchez-Blair utilize,Office Supplies,Art,29.61,12.96
+PD-561,Hunt-Jones grow,Furniture,Bookcases,25.61,14.74
+PD-562,Trujillo LLC re-contextualize,Furniture,Bookcases,6.23,3.47
+PD-563,Bell Ltd target,Office Supplies,Paper,22.09,5.7
+PD-564,Boyd-Johnson syndicate,Technology,Accessories,25.97,14.86
+PD-565,Daniels Group utilize,Office Supplies,Fasteners,4.79,1.72
+PD-566,Riddle LLC aggregate,Office Supplies,Paper,2.73,0.96
+PD-567,"Moore, Nguyen and Whitehead aggregate",Office Supplies,Fasteners,4.4,1.82
+PD-568,Acevedo Inc extend,Technology,Accessories,14.89,7.55
+PD-569,Moore and Sons target,Technology,Phones,11.88,3.99
+PD-570,Camacho-Norris brand,Technology,Accessories,15.18,7.1
+PD-571,Morton Ltd engineer,Office Supplies,Fasteners,20.71,10.22
+PD-572,Mills-Cobb deliver,Office Supplies,Fasteners,29.81,9.56
+PD-573,"Leblanc, Thompson and Giles aggregate",Office Supplies,Paper,12.64,5.91
+PD-574,"Pierce, West and West iterate",Furniture,Bookcases,8.83,2.21
+PD-575,Dunn Ltd redefine,Technology,Phones,5.15,2.38
+PD-576,Garcia-Allen visualize,Office Supplies,Envelopes,27.25,12.26
+PD-577,Kirby-Mcintosh scale,Furniture,Bookcases,9.62,4.07
+PD-578,Mueller-Frank engineer,Furniture,Bookcases,15.81,8.56
+PD-579,"Potts, Patterson and Blackburn evolve",Office Supplies,Envelopes,25.37,9.05
+PD-580,Mckinney-Moore embrace,Technology,Phones,6.91,2.09
+PD-581,Morgan Ltd engage,Technology,Accessories,28.79,17.25
+PD-582,"Reed, Gray and Turner reinvent",Office Supplies,Storage,15.98,6.02
+PD-583,"Anderson, Hubbard and Rivera target",Technology,Phones,22.02,5.17
+PD-584,Mcclure-Richards utilize,Technology,Accessories,2.91,1.59
+PD-585,Guzman Inc re-intermediate,Office Supplies,Art,18.27,10.17
+PD-586,Wallace-Myers enable,Office Supplies,Storage,18.52,8.14
+PD-587,"Walls, Smith and Conner grow",Technology,Phones,7.66,4.42
+PD-588,Joseph-Johnson empower,Furniture,Furnishings,5.69,2.51
+PD-589,"Stone, Harris and Reed visualize",Technology,Accessories,9.76,3.52
+PD-590,"Fernandez, Davis and Wu matrix",Office Supplies,Binders,15.83,8.53
+PD-591,Lee Group grow,Furniture,Furnishings,15.17,7.41
+PD-592,"Williams, Schmidt and Livingston orchestrate",Technology,Accessories,12.73,3.02
+PD-593,"Harvey, Cervantes and Alvarado optimize",Office Supplies,Paper,9.11,4.84
+PD-594,Jones-Clark seize,Technology,Accessories,28.12,16.04
+PD-595,Brown Ltd implement,Furniture,Furnishings,13.94,4.88
+PD-596,Walker PLC whiteboard,Technology,Phones,4.55,1.74
+PD-597,Carter PLC streamline,Furniture,Furnishings,4.35,1.47
+PD-598,"Knight, Pratt and Brown monetize",Technology,Accessories,6.82,1.43
+PD-599,Ryan Ltd productize,Office Supplies,Binders,28.01,15.98
+PD-600,Caldwell PLC strategize,Furniture,Furnishings,18.84,3.99
+PD-601,Oconnell Inc enable,Furniture,Bookcases,5.89,3.06
+PD-602,"Lam, Morales and Gregory re-contextualize",Office Supplies,Storage,23.33,7.86
+PD-603,Ponce-Huang visualize,Furniture,Chairs,22.87,9.27
+PD-604,"Miller, Beasley and Smith synergize",Office Supplies,Fasteners,13.41,3.13
+PD-605,Johnson and Sons grow,Technology,Phones,14.75,7.77
+PD-606,Arellano Inc deliver,Office Supplies,Storage,7.86,2.92
+PD-607,Davis Group streamline,Furniture,Furnishings,15.05,3.28
+PD-608,Fleming LLC whiteboard,Furniture,Chairs,13.05,6.19
+PD-609,Mata Ltd expedite,Office Supplies,Paper,26.02,10.34
+PD-610,"Davis, Shepard and Williams incentivize",Office Supplies,Fasteners,28.51,15.58
+PD-611,Merritt Group drive,Office Supplies,Binders,16.13,7.68
+PD-612,"Miller, Johnson and Boyd implement",Technology,Phones,29.28,13.06
+PD-613,Price and Sons re-contextualize,Office Supplies,Storage,11.2,3.74
+PD-614,Moore-Ibarra aggregate,Technology,Phones,19.18,8.35
+PD-615,"Scott, Jackson and Jackson enhance",Furniture,Furnishings,17.72,6.16
+PD-616,"Rivera, Hurley and Valentine reinvent",Furniture,Chairs,21.67,9.08
+PD-617,Campbell PLC innovate,Technology,Accessories,7.64,1.54
+PD-618,"Humphrey, Brown and Shelton embrace",Technology,Phones,15.05,6.11
+PD-619,"Gutierrez, James and Lewis enable",Technology,Accessories,29.04,7.39
+PD-620,"Young, Goodwin and Obrien grow",Technology,Phones,4.58,2.13
+PD-621,Mccormick-Barr optimize,Technology,Accessories,18.72,10.83
+PD-622,Kaufman-Wall innovate,Furniture,Chairs,12.39,4.17
+PD-623,"Castro, Pham and Alvarez transform",Furniture,Bookcases,24.77,8.46
+PD-624,Weeks-Oliver drive,Office Supplies,Paper,4.12,1.32
+PD-625,Conrad-Avila disintermediate,Technology,Phones,4.14,2.45
+PD-626,"Clark, Arnold and Pope mesh",Furniture,Bookcases,8.29,4.56
+PD-627,Estes-Jimenez generate,Technology,Accessories,25.64,14.89
+PD-628,"Mendoza, Gregory and Ruiz engage",Furniture,Furnishings,8.54,3.1
+PD-629,Wilson LLC enable,Technology,Phones,17.01,7.65
+PD-630,Williams Ltd incentivize,Furniture,Chairs,18.1,6.92
+PD-631,Adams LLC redefine,Technology,Accessories,27.99,11.9
+PD-632,Maxwell-Jimenez leverage,Technology,Phones,16.87,4.28
+PD-633,"Morgan, Johnson and Pierce visualize",Technology,Phones,10.63,5.27
+PD-634,Foley PLC leverage,Technology,Phones,7.47,1.7
+PD-635,Li-Allen re-contextualize,Furniture,Bookcases,4.81,1.39
+PD-636,Fox-Robinson re-intermediate,Technology,Phones,23.73,9.38
+PD-637,Melendez-Nichols engage,Technology,Accessories,8.54,4.65
+PD-638,"Haley, Davis and Scott enhance",Technology,Phones,28.43,6.77
+PD-639,"Potts, Thomas and Lloyd transform",Technology,Accessories,27.82,11.14
+PD-640,French-Dixon e-enable,Office Supplies,Fasteners,26.58,7.58
+PD-641,"Edwards, Rhodes and Davis orchestrate",Office Supplies,Binders,4.63,2.76
+PD-642,"Smith, Wilson and Marquez incentivize",Office Supplies,Fasteners,19.0,6.31
+PD-643,Harper-Payne transform,Furniture,Chairs,28.87,7.79
+PD-644,Parsons-Lewis integrate,Technology,Phones,20.47,11.35
+PD-645,Jones-Perez innovate,Technology,Phones,16.88,5.3
+PD-646,"Smith, Palmer and Ford mesh",Furniture,Furnishings,8.82,4.93
+PD-647,"Jones, Wallace and Jenkins architect",Technology,Phones,17.68,5.09
+PD-648,Jones-Morales exploit,Office Supplies,Paper,17.89,8.95
+PD-649,Young Inc enable,Office Supplies,Fasteners,25.46,8.65
+PD-650,"Melton, Allen and Lewis enhance",Technology,Accessories,10.76,5.45
+PD-651,Carroll-Watkins evolve,Technology,Phones,30.18,12.83
+PD-652,"Greene, Harris and Whitaker empower",Office Supplies,Art,4.9,1.12
+PD-653,Williams Group engineer,Furniture,Bookcases,24.49,9.61
+PD-654,Taylor LLC drive,Furniture,Bookcases,2.87,1.28
+PD-655,Chapman-Whitehead mesh,Office Supplies,Fasteners,24.87,7.06
+PD-656,Gonzales Group syndicate,Furniture,Furnishings,25.64,14.81
+PD-657,Collier-Burke drive,Office Supplies,Storage,2.74,0.67
+PD-658,"Fox, Brown and Park maximize",Technology,Phones,10.53,2.93
+PD-659,Stewart LLC generate,Furniture,Chairs,22.54,11.52
+PD-660,Mckenzie and Sons whiteboard,Furniture,Chairs,11.81,3.68
+PD-661,Ibarra LLC generate,Office Supplies,Paper,7.18,2.2
+PD-662,"Bradshaw, Rowland and Allen deliver",Furniture,Bookcases,27.09,14.1
+PD-663,Davis-White utilize,Technology,Phones,29.22,13.01
+PD-664,Phelps-Rivera drive,Office Supplies,Binders,11.4,5.3
+PD-665,"Brown, Martinez and Greene enable",Technology,Phones,13.66,8.04
+PD-666,Phillips-Hernandez drive,Office Supplies,Art,13.51,4.51
+PD-667,Schwartz PLC optimize,Furniture,Bookcases,27.95,14.5
+PD-668,"Norman, Higgins and Lewis transform",Office Supplies,Envelopes,25.76,9.99
+PD-669,Yates PLC mesh,Office Supplies,Art,4.81,2.07
+PD-670,Perry-Adams expedite,Office Supplies,Fasteners,23.32,11.68
+PD-671,Schwartz PLC incubate,Office Supplies,Envelopes,6.76,2.69
+PD-672,George-Clarke integrate,Technology,Accessories,7.67,3.72
+PD-673,"Brown, Cook and Barber utilize",Furniture,Furnishings,12.1,2.48
+PD-674,"White, Golden and Jackson redefine",Furniture,Furnishings,19.41,7.69
+PD-675,Castro-Miller deploy,Technology,Phones,13.64,6.69
+PD-676,Reed Ltd enhance,Office Supplies,Art,27.12,15.35
+PD-677,Shelton-Hood deploy,Technology,Phones,9.84,3.42
+PD-678,"Christian, Cox and Hinton benchmark",Furniture,Furnishings,3.03,0.75
+PD-679,Tate-Jones streamline,Technology,Accessories,2.85,1.09
+PD-680,"Mills, Ponce and Serrano unleash",Furniture,Bookcases,5.35,2.5
+PD-681,"Perry, Holt and Watson target",Technology,Phones,22.57,9.77
+PD-682,"Burns, Mitchell and Gutierrez maximize",Technology,Phones,7.94,3.88
+PD-683,Johnson-Holland optimize,Office Supplies,Storage,17.6,7.0
+PD-684,White-Silva integrate,Office Supplies,Binders,4.82,1.52
+PD-685,Watson-Hughes evolve,Furniture,Furnishings,12.46,3.97
+PD-686,Elliott Inc grow,Furniture,Bookcases,6.64,3.62
+PD-687,"Lopez, Walker and Holden empower",Office Supplies,Art,29.46,6.05
+PD-688,Smith PLC architect,Technology,Accessories,11.06,3.74
+PD-689,"Price, Walsh and Martinez re-contextualize",Technology,Accessories,4.21,1.09
+PD-690,Archer Group implement,Technology,Accessories,25.94,14.88
+PD-691,Yates Group e-enable,Furniture,Bookcases,9.9,5.87
+PD-692,"Torres, Jones and Martinez unleash",Office Supplies,Art,13.1,7.13
+PD-693,Scott and Sons optimize,Furniture,Bookcases,29.35,11.77
+PD-694,Williams and Sons leverage,Office Supplies,Binders,12.99,6.47
+PD-695,Davis Ltd architect,Technology,Phones,29.22,9.3
+PD-696,Rogers-Smith orchestrate,Furniture,Chairs,2.28,0.74
+PD-697,Diaz Group revolutionize,Furniture,Furnishings,2.67,0.61
+PD-698,Vazquez-Ortiz incubate,Office Supplies,Storage,12.02,3.55
+PD-699,Paul LLC benchmark,Technology,Phones,29.0,7.58
+PD-700,Johnson-Hunter synthesize,Furniture,Furnishings,6.88,1.96
+PD-701,"Le, Arellano and Williams orchestrate",Technology,Accessories,12.05,4.79
+PD-702,Roberts PLC incubate,Furniture,Furnishings,2.74,0.66
+PD-703,Thompson PLC architect,Office Supplies,Art,12.22,6.83
+PD-704,"Smith, Wyatt and Stephenson iterate",Technology,Phones,24.18,6.22
+PD-705,Wright-Adams innovate,Furniture,Furnishings,15.28,3.97
+PD-706,Walker-Nguyen grow,Technology,Accessories,19.52,9.52
+PD-707,Johnson-Whitney deliver,Technology,Phones,23.41,7.32
+PD-708,Strong-Todd repurpose,Furniture,Chairs,3.55,1.45
+PD-709,Lee-Smith unleash,Office Supplies,Envelopes,15.13,4.03
+PD-710,Fields Ltd mesh,Technology,Phones,16.59,6.64
+PD-711,Blankenship-Gonzalez generate,Furniture,Bookcases,18.6,10.8
+PD-712,Jenkins-Lopez mesh,Furniture,Furnishings,11.77,5.1
+PD-713,Bass Group monetize,Office Supplies,Binders,26.46,14.55
+PD-714,Simmons-Ramsey empower,Office Supplies,Art,18.32,7.51
+PD-715,"Jones, Johns and Mendoza reinvent",Office Supplies,Paper,19.95,4.31
+PD-716,Ruiz-Jackson leverage,Furniture,Furnishings,26.49,13.92
+PD-717,"Hill, Kane and Adkins harness",Office Supplies,Fasteners,12.56,3.34
+PD-718,"Smith, Martinez and Robinson synthesize",Furniture,Bookcases,4.89,2.8
+PD-719,"Thomas, Webb and Payne engineer",Furniture,Bookcases,3.3,0.85
+PD-720,"Mills, Nguyen and Miller harness",Technology,Phones,6.65,3.98
+PD-721,"Smith, Thomas and Calderon integrate",Furniture,Chairs,26.13,12.56
+PD-722,"Graham, Miller and Barnes incubate",Furniture,Furnishings,26.51,9.73
+PD-723,Preston-Johnston reinvent,Furniture,Furnishings,6.42,1.71
+PD-724,Orr and Sons benchmark,Furniture,Chairs,19.76,7.48
+PD-725,Brown and Sons generate,Technology,Phones,27.07,5.85
+PD-726,"Casey, Steele and Davis enhance",Furniture,Chairs,6.26,3.56
+PD-727,Scott-Gallagher redefine,Furniture,Bookcases,10.58,5.66
+PD-728,Miles-Walls unleash,Technology,Phones,10.87,5.18
+PD-729,Bird Ltd maximize,Office Supplies,Envelopes,10.03,3.89
+PD-730,Mcclain-Daugherty morph,Furniture,Chairs,19.02,9.59
+PD-731,Robles-Sanders target,Furniture,Bookcases,28.23,6.11
+PD-732,"Harrison, Gutierrez and Stephens target",Furniture,Chairs,26.09,8.2
+PD-733,Lee-White strategize,Technology,Accessories,3.54,1.74
+PD-734,Bernard-Davis morph,Furniture,Furnishings,5.13,1.76
+PD-735,Garcia-Todd harness,Office Supplies,Storage,6.85,3.83
+PD-736,Yang-Alexander maximize,Office Supplies,Storage,9.55,4.06
+PD-737,Martinez-Webster embrace,Office Supplies,Fasteners,8.4,1.98
+PD-738,Berg Ltd repurpose,Technology,Accessories,6.58,3.38
+PD-739,Stanley PLC transition,Technology,Accessories,20.05,9.33
+PD-740,Valentine-Reynolds grow,Office Supplies,Storage,11.88,6.09
+PD-741,"Nelson, Bell and Frank exploit",Furniture,Chairs,23.46,8.01
+PD-742,"Cox, Proctor and Wilson empower",Technology,Accessories,13.06,3.21
+PD-743,Boyd Inc integrate,Furniture,Furnishings,2.76,1.58
+PD-744,Smith-Cannon orchestrate,Technology,Accessories,26.16,14.13
+PD-745,"Brown, Christian and Brown exploit",Office Supplies,Binders,3.08,1.72
+PD-746,Peters-Bentley re-contextualize,Technology,Phones,21.18,12.32
+PD-747,"Holland, Rodriguez and Fletcher implement",Office Supplies,Envelopes,23.22,11.22
+PD-748,Case Group enhance,Furniture,Bookcases,19.73,11.49
+PD-749,"Jefferson, Carter and Hartman aggregate",Office Supplies,Art,10.55,3.36
+PD-750,"Smith, Day and Morgan transform",Office Supplies,Art,26.06,13.76
+PD-751,Davis PLC generate,Office Supplies,Fasteners,3.78,1.85
+PD-752,"Williams, Richards and Nunez engineer",Furniture,Chairs,27.43,12.57
+PD-753,"Jones, Adams and Davenport envisioneer",Furniture,Furnishings,9.34,4.22
+PD-754,Cantu-Morris seize,Technology,Phones,20.56,6.2
+PD-755,Mueller Group reinvent,Office Supplies,Paper,24.73,9.34
+PD-756,"Baxter, Parker and Castaneda integrate",Technology,Phones,10.53,4.15
+PD-757,"Juarez, Duncan and Weaver evolve",Furniture,Chairs,22.29,8.23
+PD-758,"Ford, Johnson and Wells leverage",Furniture,Furnishings,2.88,0.6
+PD-759,"Lyons, Wilson and Reynolds streamline",Technology,Phones,21.36,9.95
+PD-760,"Howard, Doyle and Mitchell visualize",Office Supplies,Paper,29.09,14.14
+PD-761,Nguyen Ltd unleash,Office Supplies,Envelopes,29.13,9.94
+PD-762,Ruiz-Dennis integrate,Technology,Accessories,16.92,6.13
+PD-763,"Green, Walters and Peterson visualize",Furniture,Chairs,26.01,7.02
+PD-764,Dunn Group leverage,Office Supplies,Paper,22.13,11.0
+PD-765,Osborne-Manning grow,Office Supplies,Binders,28.21,6.26
+PD-766,Martin-Soto enable,Furniture,Furnishings,2.83,1.23
+PD-767,Patrick-Kelly cultivate,Technology,Phones,2.55,0.77
+PD-768,"Fox, Parker and Oliver engage",Furniture,Furnishings,2.83,1.23
+PD-769,Briggs Ltd optimize,Technology,Accessories,22.08,10.89
+PD-770,Mcdonald-Fisher empower,Furniture,Furnishings,25.03,10.41
+PD-771,Harrell Group expedite,Technology,Accessories,18.76,5.51
+PD-772,Barnes-Lowe strategize,Office Supplies,Envelopes,14.27,5.18
+PD-773,Collins-Stewart benchmark,Office Supplies,Binders,17.82,5.47
+PD-774,"Thomas, Shaffer and Solis engineer",Office Supplies,Art,26.88,7.67
+PD-775,"Smith, Fisher and Lewis deploy",Furniture,Chairs,30.08,15.33
+PD-776,Chaney-Ryan transform,Office Supplies,Fasteners,24.39,11.13
+PD-777,"Hodge, Johnson and Rodriguez innovate",Furniture,Chairs,3.27,1.72
+PD-778,Brown-Hernandez facilitate,Furniture,Chairs,12.74,4.4
+PD-779,Patel-Floyd synthesize,Furniture,Chairs,5.05,2.85
+PD-780,Mitchell-Francis aggregate,Office Supplies,Binders,27.11,10.9
+PD-781,Williamson-Wallace synthesize,Office Supplies,Envelopes,3.55,1.94
+PD-782,Morris PLC strategize,Office Supplies,Paper,8.99,2.46
+PD-783,"Hebert, Evans and Sherman visualize",Technology,Accessories,7.76,2.84
+PD-784,Chandler Ltd syndicate,Technology,Accessories,7.14,3.86
+PD-785,"Davis, Henson and Decker transition",Technology,Phones,18.31,9.95
+PD-786,"Cherry, Ball and Howard mesh",Furniture,Bookcases,16.69,9.11
+PD-787,Garcia LLC exploit,Office Supplies,Art,6.02,1.27
+PD-788,Moore-Stephenson target,Furniture,Bookcases,20.69,10.83
+PD-789,Porter-Peters redefine,Furniture,Furnishings,4.05,1.1
+PD-790,"Martinez, Moreno and Hamilton engage",Technology,Phones,12.84,5.51
+PD-791,Brown-Beasley harness,Technology,Accessories,2.64,0.59
+PD-792,Jefferson-Jacobs facilitate,Technology,Phones,11.05,3.44
+PD-793,"Golden, Reeves and Collins incentivize",Office Supplies,Art,21.12,6.59
+PD-794,"Turner, Frazier and Perez streamline",Furniture,Furnishings,26.4,9.13
+PD-795,Evans-Patrick generate,Furniture,Furnishings,27.34,11.6
+PD-796,Young LLC architect,Technology,Accessories,27.52,7.46
+PD-797,Decker-Valencia synthesize,Furniture,Furnishings,22.57,5.63
+PD-798,"Wallace, Ballard and Thompson facilitate",Furniture,Furnishings,4.95,2.07
+PD-799,"Roth, Hughes and Ryan extend",Office Supplies,Paper,14.31,2.93
+PD-800,Gray-Ellis whiteboard,Office Supplies,Fasteners,28.45,14.73
+PD-801,Welch Group envisioneer,Technology,Phones,12.35,7.12
+PD-802,"Martinez, Johnson and Collins innovate",Technology,Accessories,3.51,0.71
+PD-803,Edwards-Pope utilize,Technology,Phones,22.07,12.03
+PD-804,Smith-David e-enable,Furniture,Furnishings,15.46,6.15
+PD-805,Brooks Inc exploit,Furniture,Furnishings,5.33,2.24
+PD-806,White and Sons mesh,Furniture,Furnishings,11.01,5.4
+PD-807,Gonzalez Inc morph,Furniture,Furnishings,2.38,0.84
+PD-808,Wood Ltd deploy,Office Supplies,Binders,26.98,10.57
+PD-809,"Kelly, Lowe and Harris evolve",Furniture,Bookcases,14.18,2.94
+PD-810,Smith Group brand,Technology,Accessories,13.45,6.96
+PD-811,Miles-Schroeder deploy,Technology,Phones,27.68,8.61
+PD-812,Nguyen-Thomas redefine,Office Supplies,Storage,8.19,3.74
+PD-813,"Norris, Davis and Swanson evolve",Technology,Phones,25.67,12.5
+PD-814,Thompson LLC facilitate,Furniture,Bookcases,28.25,14.61
+PD-815,Huynh and Sons facilitate,Technology,Accessories,14.28,5.16
+PD-816,Flores-Porter mesh,Office Supplies,Envelopes,4.09,2.14
+PD-817,Gibbs Group exploit,Furniture,Furnishings,7.52,3.17
+PD-818,Stewart-Baldwin scale,Office Supplies,Art,10.16,3.63
+PD-819,Welch Inc re-contextualize,Technology,Phones,5.53,3.29
+PD-820,Miller-Smith mesh,Furniture,Bookcases,3.72,1.02
+PD-821,Gomez LLC optimize,Technology,Accessories,17.66,8.54
+PD-822,Fox-Frederick leverage,Technology,Phones,17.24,5.24
+PD-823,Dean Inc envisioneer,Technology,Phones,14.32,8.2
+PD-824,Jones-Hanson monetize,Office Supplies,Fasteners,13.56,4.97
+PD-825,"Jackson, Robles and Figueroa transform",Office Supplies,Paper,28.2,12.93
+PD-826,Espinoza-Galvan mesh,Office Supplies,Storage,28.61,11.77
+PD-827,Hogan PLC implement,Office Supplies,Art,15.53,4.22
+PD-828,"James, Benson and Bishop re-intermediate",Furniture,Chairs,17.54,9.45
+PD-829,White and Sons morph,Office Supplies,Envelopes,22.63,12.61
+PD-830,Nguyen Group expedite,Technology,Accessories,2.9,1.02
+PD-831,"Lucas, Ingram and Ewing matrix",Furniture,Chairs,14.44,3.31
+PD-832,Williams and Sons leverage,Technology,Accessories,20.76,9.66
+PD-833,Monroe PLC repurpose,Technology,Phones,20.45,5.19
+PD-834,Garcia-Cobb incentivize,Office Supplies,Paper,17.22,8.71
+PD-835,Harper-Leonard engineer,Technology,Phones,26.54,6.29
+PD-836,"Curtis, Sampson and Murray extend",Furniture,Bookcases,17.42,7.12
+PD-837,"Anderson, Odonnell and Bailey harness",Office Supplies,Paper,25.52,10.96
+PD-838,Johnston Ltd engage,Technology,Accessories,21.92,6.22
+PD-839,Reyes and Sons re-intermediate,Office Supplies,Binders,13.07,3.27
+PD-840,"Hurley, Peters and Davis visualize",Technology,Accessories,24.58,12.86
+PD-841,Pope-Davis brand,Furniture,Chairs,21.91,4.49
+PD-842,Edwards-Duarte visualize,Technology,Accessories,23.08,7.26
+PD-843,"Williams, Johnson and Mejia grow",Office Supplies,Fasteners,17.06,7.58
+PD-844,"Whitney, Thompson and Thompson productize",Technology,Accessories,5.8,1.53
+PD-845,"Reed, Yu and Brown implement",Technology,Accessories,4.21,1.88
+PD-846,"Roberts, Shepherd and Mitchell revolutionize",Office Supplies,Storage,26.27,5.46
+PD-847,Hobbs-Riley utilize,Technology,Accessories,23.28,11.31
+PD-848,Flores PLC enhance,Technology,Accessories,12.7,5.19
+PD-849,Douglas and Sons re-intermediate,Technology,Accessories,24.18,10.6
+PD-850,Martin and Sons repurpose,Office Supplies,Art,4.73,2.02
+PD-851,"Nguyen, Perez and Herrera orchestrate",Technology,Accessories,9.11,4.58
+PD-852,Thompson-Graham scale,Technology,Phones,29.24,7.2
+PD-853,"Fisher, Miller and Daniels synergize",Furniture,Bookcases,13.93,3.93
+PD-854,Carson-Todd empower,Technology,Accessories,2.23,1.22
+PD-855,Guerrero and Sons integrate,Technology,Accessories,28.73,11.66
+PD-856,"Reyes, Combs and Craig embrace",Technology,Accessories,25.03,12.68
+PD-857,Parker PLC exploit,Furniture,Chairs,13.5,3.54
+PD-858,"Morris, Holt and Thomas strategize",Technology,Phones,9.03,4.47
+PD-859,White-Hunter implement,Furniture,Furnishings,23.0,8.59
+PD-860,Perez-Johnson visualize,Furniture,Furnishings,14.78,7.56
+PD-861,"Phillips, Foster and Watson extend",Technology,Phones,20.24,6.25
+PD-862,"Tucker, Boyd and Lopez whiteboard",Office Supplies,Envelopes,19.15,6.07
+PD-863,Williams Group e-enable,Technology,Accessories,22.51,11.38
+PD-864,"Lowe, Russell and Johnson seize",Technology,Phones,17.16,4.13
+PD-865,Berry PLC iterate,Office Supplies,Art,20.01,10.37
+PD-866,Johnston Ltd re-intermediate,Office Supplies,Fasteners,24.25,14.41
+PD-867,Maynard-Kaufman scale,Technology,Accessories,13.86,3.36
+PD-868,Johnson Ltd reinvent,Furniture,Bookcases,29.45,14.8
+PD-869,Mcgee-Burgess seize,Technology,Accessories,24.5,13.53
+PD-870,"Lee, Simon and Yu exploit",Office Supplies,Envelopes,20.96,11.25
+PD-871,"Holt, Gilbert and Bruce grow",Furniture,Bookcases,22.38,8.44
+PD-872,Stevens-Hernandez e-enable,Technology,Accessories,16.77,7.88
+PD-873,"Taylor, Guerrero and House re-intermediate",Office Supplies,Envelopes,24.16,9.95
+PD-874,Hobbs Ltd evolve,Office Supplies,Paper,24.17,12.85
+PD-875,Martin-Gutierrez morph,Office Supplies,Paper,17.01,5.24
+PD-876,Adams-Hamilton transition,Furniture,Bookcases,25.55,9.6
+PD-877,Gonzalez Group visualize,Furniture,Furnishings,22.09,7.01
+PD-878,"Berger, Morgan and Booker evolve",Office Supplies,Envelopes,18.7,8.46
+PD-879,Johnson-Smith whiteboard,Furniture,Furnishings,2.63,0.76
+PD-880,Davis PLC maximize,Furniture,Chairs,16.76,8.1
+PD-881,"Kaufman, Donaldson and Gaines empower",Technology,Phones,11.35,2.97
+PD-882,"Wilson, James and Khan revolutionize",Furniture,Chairs,22.88,11.55
+PD-883,"Murphy, Washington and Hill repurpose",Office Supplies,Storage,21.38,12.64
+PD-884,Liu-Kelly synergize,Furniture,Bookcases,16.57,8.83
+PD-885,Gamble-Cohen revolutionize,Office Supplies,Fasteners,4.52,1.15
+PD-886,Evans Group deploy,Technology,Phones,22.6,4.97
+PD-887,"Torres, Powers and Washington harness",Office Supplies,Paper,25.45,14.4
+PD-888,"Lucas, Bailey and Sweeney expedite",Office Supplies,Envelopes,28.02,10.92
+PD-889,Cruz Ltd envisioneer,Office Supplies,Art,12.86,6.74
+PD-890,Mccoy-Jones unleash,Furniture,Chairs,17.49,9.7
+PD-891,"Medina, Simon and Ramirez unleash",Technology,Phones,26.98,10.5
+PD-892,Jackson Group incubate,Furniture,Chairs,21.82,7.59
+PD-893,Johnson-Holden engage,Furniture,Bookcases,26.62,11.19
+PD-894,Dickerson Inc whiteboard,Technology,Phones,25.26,9.24
+PD-895,Hernandez Ltd repurpose,Technology,Phones,21.65,8.02
+PD-896,"Ryan, Poole and Bauer transform",Office Supplies,Envelopes,5.47,3.04
+PD-897,Miller-Cervantes transition,Office Supplies,Fasteners,5.63,2.63
+PD-898,Diaz-Nelson expedite,Furniture,Furnishings,4.26,1.7
+PD-899,Anderson Ltd incentivize,Office Supplies,Envelopes,11.65,5.59
+PD-900,Morales-Reed visualize,Technology,Phones,12.22,2.79
+PD-901,Singleton-Reed visualize,Furniture,Bookcases,18.83,4.91
+PD-902,Koch Group monetize,Technology,Phones,8.06,3.42
+PD-903,"Pena, Cole and Bell extend",Office Supplies,Fasteners,8.91,4.98
+PD-904,Smith Inc architect,Technology,Accessories,26.61,7.53
+PD-905,Burns Ltd enable,Furniture,Furnishings,12.34,2.53
+PD-906,Dyer PLC incentivize,Office Supplies,Storage,21.12,11.43
+PD-907,"Mccall, Brown and Williams optimize",Technology,Phones,5.63,2.75
+PD-908,Mcdonald PLC seize,Technology,Accessories,7.42,2.06
+PD-909,Ramos-Harvey streamline,Technology,Accessories,8.34,1.95
+PD-910,"Shelton, Clark and Ryan maximize",Furniture,Furnishings,25.27,7.38
+PD-911,Davies and Sons grow,Office Supplies,Binders,25.91,8.51
+PD-912,Flores Group e-enable,Furniture,Chairs,19.65,7.2
+PD-913,Thompson Ltd scale,Furniture,Chairs,22.96,6.94
+PD-914,Baird-Webster benchmark,Furniture,Chairs,21.28,10.21
+PD-915,"Gray, Reynolds and Ferguson transform",Technology,Accessories,4.06,1.73
+PD-916,Cross LLC disintermediate,Office Supplies,Storage,27.56,11.26
+PD-917,Gregory Group utilize,Technology,Accessories,17.0,6.55
+PD-918,"Bryant, Harris and Hill architect",Furniture,Chairs,9.4,5.61
+PD-919,Kelly LLC syndicate,Office Supplies,Paper,26.9,10.58
+PD-920,Ortiz-Erickson streamline,Office Supplies,Storage,9.4,3.61
+PD-921,"Rivas, Mitchell and Gibson utilize",Technology,Phones,16.86,7.5
+PD-922,Kelly-Morgan utilize,Office Supplies,Fasteners,12.6,4.06
+PD-923,Reed-Graham expedite,Furniture,Bookcases,3.13,1.25
+PD-924,Miller-Williams integrate,Furniture,Chairs,29.69,13.82
+PD-925,Fitzpatrick Inc strategize,Office Supplies,Art,12.4,7.14
+PD-926,Smith Ltd orchestrate,Office Supplies,Binders,6.04,3.41
+PD-927,"Schmidt, Young and Rodriguez incubate",Technology,Phones,15.91,5.62
+PD-928,Lee-Anderson disintermediate,Office Supplies,Fasteners,13.69,5.26
+PD-929,Cameron Inc seize,Furniture,Chairs,8.22,2.21
+PD-930,Allen-Mills integrate,Furniture,Chairs,11.97,7.11
+PD-931,Macias-Hernandez expedite,Furniture,Bookcases,3.29,1.48
+PD-932,"King, Mckenzie and Brooks enhance",Furniture,Bookcases,21.49,6.3
+PD-933,Smith-Little leverage,Technology,Accessories,13.67,7.88
+PD-934,Austin-Clark revolutionize,Office Supplies,Envelopes,25.5,5.96
+PD-935,Davis-Hudson innovate,Furniture,Furnishings,5.85,1.63
+PD-936,Curry-Foster revolutionize,Office Supplies,Binders,4.13,1.92
+PD-937,Holmes-Parrish streamline,Technology,Phones,13.46,4.01
+PD-938,Wilson PLC transform,Furniture,Chairs,29.89,6.28
+PD-939,"Anderson, Sanders and Durham aggregate",Furniture,Furnishings,15.97,3.23
+PD-940,Dean-Griffith integrate,Office Supplies,Envelopes,30.44,6.45
+PD-941,Harris PLC expedite,Technology,Accessories,30.0,10.32
+PD-942,Estrada Inc innovate,Technology,Phones,19.27,7.22
+PD-943,Roberts-Reyes scale,Office Supplies,Paper,12.12,2.79
+PD-944,"Sawyer, Schultz and Kline target",Technology,Phones,29.39,14.32
+PD-945,"Ortega, Benson and Little grow",Office Supplies,Storage,5.75,1.67
+PD-946,Gibbs PLC visualize,Office Supplies,Storage,17.5,6.82
+PD-947,Hernandez-Brown productize,Technology,Phones,28.08,8.52
+PD-948,Ward LLC orchestrate,Office Supplies,Paper,5.68,1.41
+PD-949,Jones LLC iterate,Technology,Phones,10.27,5.51
+PD-950,"Mccullough, Mcdaniel and Zimmerman facilitate",Technology,Accessories,9.41,5.46
+PD-951,"Martinez, Bishop and Bush evolve",Technology,Accessories,22.13,6.83
+PD-952,Cox and Sons target,Furniture,Chairs,29.75,6.64
+PD-953,"Walter, Graves and Ryan engage",Furniture,Furnishings,6.81,3.57
+PD-954,"Kline, Reid and Cooper monetize",Furniture,Bookcases,14.64,5.82
+PD-955,Stewart-Flores facilitate,Technology,Phones,26.35,15.64
+PD-956,Davila PLC drive,Office Supplies,Binders,3.86,1.68
+PD-957,"Browning, Thomas and Williams incentivize",Office Supplies,Art,6.96,1.4
+PD-958,Jordan-Morris scale,Furniture,Furnishings,15.91,7.96
+PD-959,"Kelley, Thomas and Hamilton optimize",Office Supplies,Paper,28.8,12.52
+PD-960,Hernandez and Sons architect,Technology,Accessories,18.85,9.87
+PD-961,Henderson-Clay implement,Technology,Phones,20.89,6.49
+PD-962,"Strong, Garza and Benton grow",Furniture,Furnishings,9.62,4.47
+PD-963,Myers-Myers facilitate,Office Supplies,Binders,5.76,2.47
+PD-964,Smith LLC benchmark,Technology,Accessories,5.64,3.04
+PD-965,Sanders Ltd productize,Furniture,Bookcases,11.8,3.84
+PD-966,Farmer-Smith benchmark,Technology,Phones,10.01,3.49
+PD-967,"Alvarez, Barton and Jackson enhance",Furniture,Bookcases,5.37,1.73
+PD-968,"Christensen, Smith and Bennett reinvent",Furniture,Furnishings,26.55,7.86
+PD-969,"Anderson, Howard and Shaw envisioneer",Technology,Phones,24.5,7.53
+PD-970,Vaughn Inc disintermediate,Technology,Accessories,9.43,2.69
+PD-971,Williams and Sons seize,Technology,Accessories,24.24,7.42
+PD-972,"Weber, Brock and Collins synergize",Office Supplies,Envelopes,16.29,8.4
+PD-973,"Eaton, Fuller and Brock reinvent",Office Supplies,Paper,12.38,6.09
+PD-974,Hunter and Sons streamline,Office Supplies,Binders,20.87,8.25
+PD-975,Lee and Sons whiteboard,Furniture,Bookcases,15.99,5.74
+PD-976,Harrison LLC scale,Office Supplies,Fasteners,18.3,6.6
+PD-977,Berry-George streamline,Furniture,Furnishings,23.15,9.31
+PD-978,Lewis-Williams streamline,Technology,Phones,29.2,12.14
+PD-979,Patton-Gross deploy,Furniture,Furnishings,6.39,1.84
+PD-980,"Phillips, Evans and Bell engage",Technology,Phones,16.08,8.29
+PD-981,"Mccarthy, Greene and Brown re-contextualize",Technology,Accessories,12.98,4.58
+PD-982,Perez-Montoya mesh,Technology,Phones,22.57,8.34
+PD-983,"Williams, Walker and Petty synthesize",Technology,Phones,30.02,17.92
+PD-984,White LLC transition,Technology,Accessories,17.56,3.84
+PD-985,Rogers-Cox leverage,Technology,Accessories,28.51,6.07
+PD-986,Brown LLC integrate,Office Supplies,Storage,13.6,5.29
+PD-987,Jones-Smith utilize,Furniture,Furnishings,9.32,4.97
+PD-988,"Carter, Owens and Jones revolutionize",Furniture,Chairs,19.11,8.69
+PD-989,Abbott and Sons deploy,Office Supplies,Fasteners,23.15,4.84
+PD-990,Shah PLC syndicate,Furniture,Furnishings,6.0,2.39
+PD-991,Gill Ltd harness,Office Supplies,Envelopes,13.68,2.91
+PD-992,"Johnson, Fitzgerald and Hart visualize",Technology,Accessories,28.79,17.01
+PD-993,Keith PLC empower,Technology,Accessories,13.24,6.61
+PD-994,Boyer-Hart engineer,Technology,Accessories,25.73,5.41
+PD-995,Smith-Mcpherson facilitate,Furniture,Bookcases,26.31,6.27
+PD-996,Cameron LLC orchestrate,Furniture,Chairs,13.15,7.05
+PD-997,Bell-Fuller maximize,Furniture,Chairs,13.36,7.78
+PD-998,"Barrett, Edwards and Obrien productize",Office Supplies,Binders,8.84,5.12
+PD-999,"Herring, Strickland and Lee utilize",Furniture,Bookcases,17.26,8.55
+PD-1000,Farmer Inc maximize,Technology,Phones,9.64,2.63
+PD-1001,Hall Inc unleash,Technology,Phones,16.85,9.47
+PD-1002,"Davis, Davis and Lang transition",Office Supplies,Paper,3.17,1.54
+PD-1003,"Ford, Jordan and Johnson scale",Technology,Accessories,9.2,4.16
+PD-1004,Schmidt Group iterate,Technology,Accessories,4.98,1.69
+PD-1005,Mack-Hall generate,Furniture,Bookcases,15.43,3.88
+PD-1006,Hammond Group expedite,Furniture,Furnishings,4.82,1.73
+PD-1007,Bond PLC empower,Furniture,Bookcases,11.76,4.09
+PD-1008,"Casey, Goodman and Nelson extend",Office Supplies,Paper,22.65,5.98
+PD-1009,Hernandez Group target,Technology,Phones,3.95,2.26
+PD-1010,Thomas-Henry brand,Furniture,Chairs,24.77,11.2
+PD-1011,"Bailey, Pierce and Evans enable",Furniture,Bookcases,3.33,0.99
+PD-1012,Best Ltd monetize,Furniture,Bookcases,14.07,2.82
+PD-1013,Bennett PLC e-enable,Office Supplies,Binders,7.65,3.02
+PD-1014,Silva and Sons harness,Furniture,Bookcases,8.29,4.36
+PD-1015,Jones-Decker grow,Technology,Accessories,13.66,7.54
+PD-1016,Miller-West scale,Technology,Accessories,15.21,3.77
+PD-1017,"Matthews, Bradley and Allen seize",Technology,Accessories,27.96,11.96
+PD-1018,Andrews LLC optimize,Office Supplies,Paper,26.93,13.17
+PD-1019,Ferrell-Allen architect,Technology,Accessories,13.54,4.94
+PD-1020,Mcintyre-Marshall benchmark,Office Supplies,Fasteners,15.99,5.94
+PD-1021,Todd Group generate,Office Supplies,Art,7.93,2.59
+PD-1022,"Green, Rangel and Rodriguez extend",Furniture,Furnishings,13.41,5.44
+PD-1023,Bowen-Bates embrace,Technology,Accessories,23.08,4.71
+PD-1024,Mendoza-Young redefine,Furniture,Chairs,18.79,3.83
+PD-1025,Stuart LLC envisioneer,Technology,Accessories,25.35,11.15
+PD-1026,Sanchez Group grow,Furniture,Chairs,8.19,4.44
+PD-1027,"Turner, Anthony and Richards benchmark",Office Supplies,Art,18.05,3.65
+PD-1028,James-Myers implement,Furniture,Furnishings,15.01,4.37
+PD-1029,"Chavez, Harper and Moran empower",Office Supplies,Envelopes,3.19,1.3
+PD-1030,Herring-Benitez cultivate,Office Supplies,Envelopes,20.0,11.36
+PD-1031,Solis and Sons cultivate,Technology,Phones,21.7,7.46
+PD-1032,Roman Inc extend,Technology,Accessories,28.2,14.15
+PD-1033,"Fischer, Miller and Estrada re-contextualize",Office Supplies,Storage,20.72,9.61
+PD-1034,Sellers PLC generate,Office Supplies,Binders,8.82,3.58
+PD-1035,"Gonzalez, Garcia and Huff transform",Office Supplies,Envelopes,29.21,6.64
+PD-1036,Barnes-Cain monetize,Technology,Phones,7.47,4.22
+PD-1037,"Stewart, Richardson and Ramirez harness",Furniture,Furnishings,13.33,6.76
+PD-1038,Ponce Inc syndicate,Furniture,Chairs,27.24,9.69
+PD-1039,Williams-Paul mesh,Furniture,Chairs,10.46,2.92
+PD-1040,Moore Inc architect,Technology,Accessories,13.82,3.76
+PD-1041,"Michael, Estes and Smith incubate",Technology,Accessories,21.04,12.52
+PD-1042,Ross-Mcdowell implement,Technology,Phones,15.81,6.8
+PD-1043,Hammond LLC implement,Technology,Phones,15.3,4.45
+PD-1044,Franklin Inc brand,Office Supplies,Binders,2.93,1.62
+PD-1045,Hutchinson-Lopez empower,Technology,Phones,13.53,5.64
+PD-1046,Miller Ltd integrate,Technology,Phones,18.23,3.79
+PD-1047,Harper Ltd orchestrate,Technology,Accessories,26.49,8.15
+PD-1048,Walker-Lucas re-intermediate,Technology,Phones,21.6,10.37
+PD-1049,"Serrano, Smith and Roy repurpose",Office Supplies,Envelopes,16.8,9.86
+PD-1050,"Christensen, Walker and Edwards utilize",Furniture,Chairs,19.22,4.33
+PD-1051,"Santiago, Dawson and Rodriguez seize",Furniture,Furnishings,6.38,3.56
+PD-1052,Johnson PLC empower,Technology,Phones,22.51,13.37
+PD-1053,"Love, Smith and Hebert facilitate",Office Supplies,Paper,22.95,9.26
+PD-1054,Ellis LLC utilize,Furniture,Furnishings,8.09,2.23
+PD-1055,Stevens-Benjamin repurpose,Technology,Accessories,5.6,2.25
+PD-1056,"Christian, Simmons and Simmons transition",Office Supplies,Paper,14.52,5.98
+PD-1057,"Paul, Reese and Casey maximize",Technology,Accessories,15.02,5.31
+PD-1058,Hill-Murray seize,Office Supplies,Binders,29.5,8.09
+PD-1059,Fox PLC re-intermediate,Furniture,Furnishings,26.03,8.91
+PD-1060,Shannon LLC visualize,Office Supplies,Envelopes,5.85,3.18
+PD-1061,"Hicks, Johnson and Kelly e-enable",Office Supplies,Art,13.14,4.0
+PD-1062,Stephens-Smith optimize,Technology,Accessories,15.97,5.86
+PD-1063,Bowen LLC grow,Furniture,Chairs,3.99,0.96
+PD-1064,"Bird, Fisher and White enable",Technology,Accessories,13.25,5.57
+PD-1065,Vincent and Sons iterate,Office Supplies,Art,12.15,7.04
+PD-1066,Jones Inc productize,Furniture,Chairs,3.58,0.81
+PD-1067,"Baxter, Ruiz and Meyer utilize",Office Supplies,Storage,5.17,2.42
+PD-1068,Todd-Brooks engage,Office Supplies,Art,9.49,2.74
+PD-1069,"Morgan, Chapman and Martin re-contextualize",Office Supplies,Art,25.03,6.69
+PD-1070,Strong-Jimenez brand,Furniture,Furnishings,22.4,11.91
+PD-1071,Williams Group morph,Office Supplies,Storage,15.29,4.47
+PD-1072,Fisher Inc strategize,Office Supplies,Envelopes,18.07,9.26
+PD-1073,"Long, Fox and Montgomery revolutionize",Office Supplies,Storage,21.32,8.62
+PD-1074,James Group drive,Furniture,Furnishings,25.56,8.93
+PD-1075,"White, Boyd and Byrd drive",Office Supplies,Envelopes,11.04,6.33
+PD-1076,Mckay LLC matrix,Furniture,Bookcases,16.89,9.43
+PD-1077,"Dennis, Jones and Bowman disintermediate",Technology,Accessories,27.75,13.47
+PD-1078,Hendricks PLC leverage,Furniture,Furnishings,30.41,15.95
+PD-1079,Liu Inc deliver,Furniture,Chairs,4.16,1.06
+PD-1080,Hamilton-Lamb drive,Office Supplies,Art,5.57,1.54
+PD-1081,"Williams, Cole and Jackson grow",Technology,Phones,10.63,5.4
+PD-1082,"Harris, Perez and Walker optimize",Technology,Phones,22.95,11.68
+PD-1083,Hall Ltd embrace,Office Supplies,Storage,26.6,9.71
+PD-1084,Miller Ltd integrate,Office Supplies,Storage,16.02,9.32
+PD-1085,Campbell-Blanchard morph,Office Supplies,Fasteners,22.05,7.34
+PD-1086,Wilson-Salazar re-intermediate,Office Supplies,Storage,29.02,14.07
+PD-1087,"Rice, Williams and Cook optimize",Office Supplies,Art,13.39,6.04
+PD-1088,Clark-Brown architect,Office Supplies,Art,17.88,4.06
+PD-1089,Padilla Group repurpose,Office Supplies,Envelopes,7.51,2.32
+PD-1090,"Brown, Roy and Avila redefine",Office Supplies,Envelopes,22.79,8.79
+PD-1091,"Peterson, Schwartz and Stevens seize",Office Supplies,Fasteners,13.62,2.83
+PD-1092,Gordon-Nelson grow,Furniture,Bookcases,21.17,10.62
+PD-1093,Jordan-Herrera streamline,Office Supplies,Binders,9.39,2.08
+PD-1094,"Carter, Hunter and Jones deliver",Office Supplies,Binders,5.08,2.07
+PD-1095,"Elliott, Mathis and Rice aggregate",Office Supplies,Art,23.86,7.16
+PD-1096,"Martin, Graham and Jacobson enhance",Technology,Phones,16.27,9.38
+PD-1097,"Contreras, Hernandez and Williams cultivate",Furniture,Bookcases,5.3,1.11
+PD-1098,"Lewis, Kelly and Smith innovate",Technology,Phones,27.7,16.33
+PD-1099,"Thomas, Mitchell and Moon transform",Office Supplies,Binders,19.97,10.29
+PD-1100,"Smith, Harris and Brewer aggregate",Technology,Accessories,11.3,5.89
+PD-1101,Martin-Stout brand,Office Supplies,Envelopes,17.76,6.39
+PD-1102,Warren-Day leverage,Office Supplies,Paper,7.17,4.12
+PD-1103,Thomas-Weaver matrix,Office Supplies,Fasteners,13.35,5.45
+PD-1104,"Hernandez, Lowe and Scott enhance",Office Supplies,Envelopes,16.65,7.73
+PD-1105,Taylor-Green re-contextualize,Technology,Phones,28.18,6.09
+PD-1106,Carlson and Sons extend,Office Supplies,Envelopes,26.01,14.12
+PD-1107,Burns-Lara deploy,Office Supplies,Fasteners,19.92,5.62
+PD-1108,Garcia Inc engage,Office Supplies,Paper,11.45,5.15
+PD-1109,"Hudson, Watkins and Weaver transition",Office Supplies,Storage,26.38,8.4
+PD-1110,"Cruz, Castro and Johnson deploy",Furniture,Chairs,10.48,3.69
+PD-1111,Lawrence-Ingram expedite,Office Supplies,Art,26.76,9.59
+PD-1112,Garcia-Cobb evolve,Technology,Phones,25.34,10.74
+PD-1113,Delacruz-Ross innovate,Technology,Accessories,24.14,9.81
+PD-1114,Ho-Hudson generate,Technology,Phones,18.73,9.67
+PD-1115,Santos-Welch generate,Furniture,Bookcases,20.23,9.35
+PD-1116,"Walker, Reeves and Armstrong seize",Office Supplies,Fasteners,4.91,1.59
+PD-1117,"Atkins, Fields and Parsons utilize",Technology,Phones,9.25,4.11
+PD-1118,"Adkins, Chavez and Wheeler deliver",Technology,Phones,21.94,8.0
+PD-1119,Harrison-Peters synthesize,Office Supplies,Art,11.02,3.23
+PD-1120,"Mcdaniel, Tanner and Evans target",Furniture,Bookcases,17.68,8.03
+PD-1121,Williams-Cobb productize,Furniture,Bookcases,15.52,8.15
+PD-1122,Lewis-Haney drive,Furniture,Chairs,12.17,6.49
+PD-1123,Guerrero-Gibson exploit,Technology,Phones,10.61,2.16
+PD-1124,Miller-Davis brand,Furniture,Bookcases,14.76,3.62
+PD-1125,Smith Group scale,Technology,Phones,18.71,3.97
+PD-1126,Taylor PLC exploit,Furniture,Furnishings,12.26,6.66
+PD-1127,Clay-Hopkins revolutionize,Office Supplies,Art,25.28,8.33
+PD-1128,Norris LLC enable,Furniture,Furnishings,7.31,3.88
+PD-1129,Mayer Group drive,Office Supplies,Binders,29.9,7.43
+PD-1130,"Simpson, Jones and Alvarez transform",Office Supplies,Binders,15.76,8.26
+PD-1131,"Wells, Lloyd and Tran aggregate",Furniture,Bookcases,14.38,4.86
+PD-1132,"Taylor, Thompson and Griffith scale",Technology,Accessories,6.48,3.14
+PD-1133,Allen-Burke orchestrate,Furniture,Furnishings,7.95,4.18
+PD-1134,"Walker, Wells and Henderson extend",Furniture,Chairs,17.93,4.0
+PD-1135,Burgess Ltd synthesize,Office Supplies,Paper,18.83,10.33
+PD-1136,Brown PLC enhance,Technology,Phones,4.74,1.3
+PD-1137,Diaz-Ortega productize,Furniture,Bookcases,21.15,12.65
+PD-1138,Mcintyre PLC target,Office Supplies,Binders,18.04,4.4
+PD-1139,"Ford, Jordan and Swanson deliver",Technology,Accessories,30.07,11.71
+PD-1140,Campbell-Davenport re-contextualize,Furniture,Bookcases,28.21,7.83
+PD-1141,"Cardenas, Reynolds and Ramos mesh",Furniture,Furnishings,14.34,8.41
+PD-1142,Hanson and Sons deploy,Office Supplies,Binders,5.28,1.95
+PD-1143,"Diaz, Cameron and Johnson streamline",Technology,Accessories,5.61,1.14
+PD-1144,"Gray, Wall and Brennan morph",Furniture,Chairs,25.78,10.3
+PD-1145,Middleton-Parker optimize,Furniture,Bookcases,16.09,6.14
+PD-1146,Wright-Richards incentivize,Office Supplies,Envelopes,3.78,1.38
+PD-1147,"Garcia, Lucas and Riley cultivate",Furniture,Furnishings,25.79,5.6
+PD-1148,Sharp-Murphy integrate,Furniture,Bookcases,13.6,4.47
+PD-1149,"Johnson, Huff and Case architect",Office Supplies,Storage,25.54,8.52
+PD-1150,"Matthews, Hall and Smith drive",Office Supplies,Binders,12.34,3.8
+PD-1151,Lee Inc cultivate,Office Supplies,Paper,14.01,8.35
+PD-1152,Mathis and Sons strategize,Office Supplies,Envelopes,20.98,10.6
+PD-1153,"Martinez, Smith and Daniels architect",Technology,Phones,16.67,7.33
+PD-1154,Clark-Collins maximize,Technology,Accessories,29.59,12.23
+PD-1155,"Lara, Davis and Barton aggregate",Office Supplies,Art,10.37,4.17
+PD-1156,Graham Inc productize,Technology,Phones,19.35,10.11
+PD-1157,"Riggs, Dorsey and Schneider syndicate",Furniture,Furnishings,30.29,8.16
+PD-1158,Greer Inc architect,Technology,Accessories,12.22,5.29
+PD-1159,Mcpherson-Dunn empower,Technology,Phones,4.74,1.52
+PD-1160,Benton-Snyder incentivize,Furniture,Chairs,9.05,5.16
+PD-1161,Jennings-Lambert exploit,Office Supplies,Paper,22.3,12.3
+PD-1162,Harding and Sons synergize,Office Supplies,Fasteners,12.55,4.09
+PD-1163,Bonilla-Sexton matrix,Technology,Accessories,22.78,11.77
+PD-1164,"Gilbert, Gomez and Frazier benchmark",Office Supplies,Envelopes,20.46,6.82
+PD-1165,Beasley and Sons expedite,Technology,Accessories,3.54,2.02
+PD-1166,Pena-Miller cultivate,Office Supplies,Envelopes,9.79,3.04
+PD-1167,"Cruz, Patel and Black re-contextualize",Office Supplies,Envelopes,4.11,1.93
+PD-1168,Holder LLC extend,Technology,Phones,5.96,1.48
+PD-1169,"Pineda, Nguyen and Pollard repurpose",Technology,Phones,17.64,10.15
+PD-1170,Powell-Burton unleash,Furniture,Bookcases,9.68,3.43
+PD-1171,"Wong, Banks and Hamilton transition",Furniture,Furnishings,4.8,2.6
+PD-1172,Flowers and Sons seize,Office Supplies,Envelopes,27.55,7.09
+PD-1173,Franklin-Lopez disintermediate,Technology,Phones,21.61,6.25
+PD-1174,Thompson-Tapia mesh,Office Supplies,Storage,26.56,7.51
+PD-1175,Griffin-Tate productize,Furniture,Furnishings,10.6,2.18
+PD-1176,"Harris, Velazquez and Wilson target",Office Supplies,Art,13.18,2.78
+PD-1177,Barton Inc facilitate,Technology,Phones,28.58,6.01
+PD-1178,Hayes Group e-enable,Office Supplies,Storage,8.25,4.26
+PD-1179,Tucker-White transform,Office Supplies,Envelopes,9.67,5.05
+PD-1180,"Patel, Sanchez and Reid envisioneer",Furniture,Bookcases,26.83,12.63
+PD-1181,"Silva, Johnson and Baldwin enable",Furniture,Chairs,19.13,9.53
+PD-1182,"Chapman, Gray and Best synthesize",Furniture,Furnishings,17.46,6.86
+PD-1183,Johnson-Tapia morph,Technology,Phones,26.11,6.87
+PD-1184,Wilkins Group enable,Technology,Accessories,26.95,6.16
+PD-1185,"Salazar, Alexander and Ward synthesize",Office Supplies,Binders,14.23,4.81
+PD-1186,"Jones, Peters and Lopez grow",Office Supplies,Fasteners,15.68,4.68
+PD-1187,Walker-Velasquez drive,Furniture,Chairs,13.54,4.29
+PD-1188,Powell Ltd synthesize,Technology,Phones,8.67,5.15
+PD-1189,"Baxter, Rush and Gardner enhance",Technology,Phones,26.92,15.86
+PD-1190,"Robertson, Rios and Holder generate",Office Supplies,Fasteners,7.91,3.64
+PD-1191,Smith-Lopez architect,Office Supplies,Envelopes,10.95,6.27
+PD-1192,Horn-Ewing transition,Furniture,Chairs,16.38,4.43
+PD-1193,Lewis LLC deploy,Office Supplies,Envelopes,16.04,4.24
+PD-1194,Cruz PLC strategize,Technology,Phones,19.24,6.5
+PD-1195,Perry-Serrano repurpose,Furniture,Bookcases,7.76,2.03
+PD-1196,Franco Ltd whiteboard,Office Supplies,Art,10.85,5.59
+PD-1197,Williams-Sanchez revolutionize,Furniture,Furnishings,14.49,4.61
+PD-1198,"Reed, Quinn and Ryan mesh",Furniture,Furnishings,13.0,3.46
+PD-1199,Trevino LLC maximize,Furniture,Bookcases,26.79,11.17
+PD-1200,Nguyen Group embrace,Furniture,Furnishings,20.8,6.5
+PD-1201,"Ortiz, Page and Guzman unleash",Office Supplies,Art,20.21,7.1
+PD-1202,"Wiggins, Warren and Stevens generate",Technology,Accessories,9.94,5.71
+PD-1203,Jones Ltd mesh,Furniture,Bookcases,19.41,11.32
+PD-1204,Kirk-Little utilize,Furniture,Chairs,28.04,7.26
+PD-1205,Barker and Sons productize,Office Supplies,Storage,12.12,3.26
+PD-1206,Garcia Group harness,Furniture,Furnishings,25.61,12.73
+PD-1207,Brown-Wood e-enable,Furniture,Chairs,16.36,9.49
+PD-1208,"Cooper, Tapia and Davis cultivate",Office Supplies,Envelopes,17.71,5.62
+PD-1209,Gardner LLC facilitate,Technology,Accessories,26.14,12.3
+PD-1210,Johnson-Ortiz cultivate,Furniture,Chairs,23.24,5.85
+PD-1211,English and Sons engineer,Office Supplies,Fasteners,28.63,16.52
+PD-1212,Williams Inc strategize,Office Supplies,Fasteners,9.89,5.74
+PD-1213,"Davis, Mckinney and Stevenson synergize",Furniture,Furnishings,20.29,10.81
+PD-1214,"Smith, Pena and Thomas orchestrate",Technology,Accessories,2.65,0.79
+PD-1215,Ayala and Sons expedite,Technology,Phones,8.57,2.3
+PD-1216,Martin Group synthesize,Technology,Accessories,20.67,9.98
+PD-1217,Smith Ltd architect,Technology,Accessories,12.38,3.26
+PD-1218,Clements-Parsons envisioneer,Office Supplies,Envelopes,10.36,2.69
+PD-1219,"Silva, Donovan and Taylor incubate",Furniture,Bookcases,4.15,1.32
+PD-1220,Marshall Inc seize,Furniture,Bookcases,24.41,14.11
+PD-1221,Mcmahon Group brand,Furniture,Bookcases,27.04,12.16
+PD-1222,"Lewis, Reed and Hernandez benchmark",Furniture,Furnishings,16.92,7.6
+PD-1223,Reeves LLC integrate,Technology,Phones,15.31,5.58
+PD-1224,Thomas Inc visualize,Technology,Accessories,24.71,13.63
+PD-1225,Fernandez-Macdonald disintermediate,Furniture,Chairs,27.39,15.98
+PD-1226,Miller-Ramirez grow,Office Supplies,Paper,12.48,4.68
+PD-1227,"Caldwell, Gomez and Richardson visualize",Office Supplies,Paper,20.15,5.05
+PD-1228,Graham-Day strategize,Technology,Phones,21.32,4.94
+PD-1229,"Brown, Burch and Ramirez iterate",Technology,Accessories,5.62,2.08
+PD-1230,"Smith, Gates and Patterson engage",Furniture,Chairs,11.9,4.0
+PD-1231,Pierce PLC target,Furniture,Chairs,17.77,8.45
+PD-1232,"James, Zhang and Sawyer reinvent",Furniture,Chairs,20.42,10.27
+PD-1233,"Young, Griffin and Palmer monetize",Technology,Accessories,22.65,4.69
+PD-1234,"Vargas, White and Herrera orchestrate",Office Supplies,Envelopes,26.22,15.25
+PD-1235,Mora-Ibarra enable,Office Supplies,Paper,27.15,9.89
+PD-1236,Stafford-Davis matrix,Office Supplies,Storage,11.79,4.77
+PD-1237,"Campbell, Morales and Williams disintermediate",Office Supplies,Envelopes,7.64,4.01
+PD-1238,Morris Ltd engage,Furniture,Furnishings,7.07,3.43
+PD-1239,Hill Inc embrace,Technology,Accessories,5.62,2.04
+PD-1240,Tran-Thompson syndicate,Office Supplies,Art,18.34,10.74
+PD-1241,Scott-Scott syndicate,Office Supplies,Binders,3.75,1.97
+PD-1242,"Sawyer, Smith and Hernandez leverage",Office Supplies,Paper,26.67,10.36
+PD-1243,Allen-Walters leverage,Office Supplies,Paper,16.45,3.39
+PD-1244,"Wilson, Townsend and Smith empower",Office Supplies,Binders,8.12,4.5
+PD-1245,"Lamb, Gonzalez and Anderson monetize",Furniture,Chairs,8.51,2.93
+PD-1246,"Lopez, Kramer and Edwards cultivate",Office Supplies,Envelopes,14.57,5.29
+PD-1247,"Kirk, Marquez and Bradley facilitate",Office Supplies,Art,15.92,4.17
+PD-1248,"Garrett, Mitchell and Collins grow",Office Supplies,Storage,4.5,2.46
+PD-1249,"Fletcher, Elliott and Black unleash",Office Supplies,Storage,19.65,11.7
+PD-1250,Griffith-Johnson redefine,Office Supplies,Art,2.34,0.73
+PD-1251,"Smith, Harris and Oneill grow",Technology,Phones,6.92,2.38
+PD-1252,Wolf PLC orchestrate,Furniture,Furnishings,18.28,10.06
+PD-1253,"Flores, Page and Long harness",Furniture,Chairs,9.23,5.47
+PD-1254,"Gibson, Fisher and Turner visualize",Technology,Accessories,3.11,0.94
+PD-1255,"Harper, Rodriguez and Torres architect",Office Supplies,Binders,27.96,6.7
+PD-1256,Baxter-Moon leverage,Office Supplies,Binders,3.12,1.36
+PD-1257,"Estes, Marshall and Garcia deliver",Furniture,Furnishings,9.35,4.61
+PD-1258,Fields LLC monetize,Office Supplies,Storage,25.41,5.23
+PD-1259,Hall-James revolutionize,Technology,Accessories,9.55,4.45
+PD-1260,"Watts, Miller and Rosario facilitate",Furniture,Furnishings,6.44,1.56
+PD-1261,Morris and Sons brand,Furniture,Chairs,23.59,12.51
+PD-1262,"Matthews, Holt and Patel reinvent",Furniture,Furnishings,25.73,8.9
+PD-1263,Harris Group mesh,Office Supplies,Storage,29.25,16.7
+PD-1264,Yang Ltd drive,Technology,Phones,5.46,1.38
+PD-1265,Montgomery-Cannon e-enable,Office Supplies,Paper,15.4,8.72
+PD-1266,Gutierrez Ltd target,Furniture,Bookcases,18.37,5.9
+PD-1267,Franklin-Riggs engineer,Office Supplies,Envelopes,5.24,1.71
+PD-1268,"Kelly, Bell and Schneider maximize",Furniture,Bookcases,18.03,6.14
+PD-1269,Weaver-Lynch evolve,Technology,Accessories,27.0,14.34
+PD-1270,"Holmes, Carlson and Fernandez incentivize",Technology,Phones,29.96,11.39
+PD-1271,Collins LLC utilize,Furniture,Chairs,9.62,2.25
+PD-1272,"Johnson, Orr and Valdez matrix",Furniture,Furnishings,8.71,3.28
+PD-1273,Rodriguez-Clark orchestrate,Technology,Phones,27.86,10.04
+PD-1274,"Martin, Williams and Porter seize",Technology,Accessories,14.91,8.56
+PD-1275,Barber LLC empower,Office Supplies,Binders,27.14,8.86
+PD-1276,Charles and Sons deliver,Technology,Accessories,13.42,7.53
+PD-1277,Cook LLC leverage,Office Supplies,Fasteners,6.28,3.07
+PD-1278,Hodge-Ray envisioneer,Office Supplies,Art,16.06,6.54
+PD-1279,"Dudley, Richards and Barton incentivize",Technology,Phones,28.42,16.98
+PD-1280,Bryan-Gomez extend,Furniture,Bookcases,21.45,8.1
+PD-1281,Chandler LLC orchestrate,Technology,Accessories,9.55,4.44
+PD-1282,"Kennedy, Ayala and Weber synthesize",Technology,Phones,16.69,8.86
+PD-1283,Miles and Sons architect,Office Supplies,Fasteners,4.34,2.4
+PD-1284,Conner PLC innovate,Furniture,Bookcases,29.32,7.66
+PD-1285,Shah Ltd enable,Technology,Accessories,11.16,3.65
+PD-1286,Compton Ltd integrate,Technology,Phones,26.84,10.11
+PD-1287,"Brown, Boyd and Richards implement",Technology,Phones,18.04,7.16
+PD-1288,"Rivera, Knight and Gomez syndicate",Technology,Phones,26.95,12.49
+PD-1289,Thomas LLC benchmark,Office Supplies,Envelopes,28.15,16.65
+PD-1290,Gallegos-Kidd empower,Technology,Phones,10.35,4.95
+PD-1291,"Miller, Campbell and Reed aggregate",Office Supplies,Art,6.31,2.22
+PD-1292,Riddle-Campbell incentivize,Office Supplies,Envelopes,7.23,4.28
+PD-1293,Mckenzie PLC embrace,Office Supplies,Storage,5.5,2.95
+PD-1294,Flores-Thomas transition,Technology,Accessories,23.74,9.84
+PD-1295,"Reid, Butler and Prince matrix",Technology,Accessories,20.22,11.63
+PD-1296,"Kim, Lozano and Edwards productize",Office Supplies,Fasteners,23.93,9.1
+PD-1297,"Valdez, Joyce and Brown integrate",Office Supplies,Storage,19.83,4.54
+PD-1298,"King, Jones and Wright facilitate",Technology,Phones,7.62,4.03
+PD-1299,"Bennett, Valdez and Nichols deploy",Office Supplies,Envelopes,18.94,3.85
+PD-1300,Jones-Drake scale,Technology,Accessories,2.51,1.05
+PD-1301,"Calderon, Stevens and Dennis synergize",Office Supplies,Art,17.13,9.78
+PD-1302,Jones Group incubate,Office Supplies,Art,10.16,5.01
+PD-1303,Cannon-Barnes enhance,Office Supplies,Envelopes,4.12,2.02
+PD-1304,Robinson-Walton aggregate,Furniture,Chairs,27.06,5.98
+PD-1305,Hardin Inc re-contextualize,Technology,Accessories,19.56,4.33
+PD-1306,"King, Meyer and Lopez integrate",Office Supplies,Paper,10.65,5.02
+PD-1307,Flores-Hamilton transition,Office Supplies,Storage,25.9,7.69
+PD-1308,Delgado-Hammond re-contextualize,Furniture,Furnishings,22.4,5.65
+PD-1309,Fox Inc seize,Furniture,Chairs,17.1,9.46
+PD-1310,Owens Inc deliver,Technology,Accessories,6.5,2.41
+PD-1311,Robles PLC grow,Office Supplies,Envelopes,26.59,14.77
+PD-1312,Brewer Ltd target,Office Supplies,Fasteners,6.99,3.67
+PD-1313,"Smith, Williams and Carpenter morph",Furniture,Chairs,15.27,4.0
+PD-1314,"Wright, Thomas and Jones target",Office Supplies,Storage,22.87,7.59
+PD-1315,White-Miller unleash,Office Supplies,Storage,21.33,5.53
+PD-1316,"Sosa, Ayala and Jones reinvent",Technology,Phones,11.26,5.64
+PD-1317,"Gilbert, Jones and Smith integrate",Furniture,Furnishings,24.1,6.36
+PD-1318,"Ho, Vargas and Blanchard visualize",Office Supplies,Storage,2.23,1.16
+PD-1319,"Sanchez, Lucas and Parker streamline",Furniture,Chairs,18.35,3.93
+PD-1320,Massey PLC integrate,Technology,Phones,4.33,2.39
+PD-1321,Bradshaw-Evans empower,Technology,Accessories,20.93,4.76
+PD-1322,"Bowman, Spencer and Smith enable",Office Supplies,Storage,4.1,1.37
+PD-1323,"Graham, Hill and Lewis re-intermediate",Technology,Phones,5.15,2.07
+PD-1324,"Levine, Oliver and Long re-intermediate",Office Supplies,Binders,3.28,1.88
+PD-1325,"Mcdonald, Taylor and Acosta productize",Furniture,Chairs,14.48,4.35
+PD-1326,Lynch Group exploit,Office Supplies,Storage,6.47,3.53
+PD-1327,"Petersen, Snyder and Mcdonald drive",Furniture,Bookcases,9.61,5.73
+PD-1328,Cantu-Caldwell visualize,Technology,Accessories,11.05,3.38
+PD-1329,"Fowler, Richardson and Moody expedite",Office Supplies,Storage,3.35,0.75
+PD-1330,Burns Group envisioneer,Furniture,Furnishings,26.65,8.37
+PD-1331,"Young, Ellis and Andrews re-contextualize",Furniture,Chairs,18.18,6.66
+PD-1332,Davis Ltd seize,Office Supplies,Storage,15.04,3.94
+PD-1333,Hart and Sons e-enable,Technology,Phones,12.33,5.7
+PD-1334,Walker-Gomez expedite,Office Supplies,Storage,24.09,12.52
+PD-1335,"Nguyen, Gibson and Barrett harness",Technology,Phones,29.94,11.24
+PD-1336,Johnson Inc re-contextualize,Office Supplies,Binders,13.21,4.75
+PD-1337,"Melton, Moon and Johnson transform",Office Supplies,Storage,15.44,6.21
+PD-1338,Thomas Group redefine,Furniture,Chairs,7.89,2.79
+PD-1339,"Henderson, Ward and Jensen embrace",Furniture,Furnishings,10.81,5.17
+PD-1340,Meyers-Brown re-intermediate,Furniture,Bookcases,9.61,5.23
+PD-1341,"Riggs, Leach and Smith seize",Technology,Phones,12.77,5.28
+PD-1342,Knight-Perry redefine,Office Supplies,Binders,15.24,3.66
+PD-1343,Brady PLC expedite,Furniture,Chairs,22.64,13.47
+PD-1344,Potter-Ramos reinvent,Office Supplies,Envelopes,25.44,6.43
+PD-1345,Robinson-Harrington revolutionize,Furniture,Furnishings,24.42,8.36
+PD-1346,Wagner-Medina enable,Furniture,Furnishings,26.59,9.07
+PD-1347,Cantu Inc redefine,Technology,Phones,20.37,10.31
+PD-1348,Chandler Group whiteboard,Office Supplies,Storage,28.71,5.93
+PD-1349,"Johnson, Smith and Williams whiteboard",Furniture,Furnishings,30.07,16.73
+PD-1350,"Rodgers, Duran and Reed incentivize",Furniture,Furnishings,11.58,3.14
+PD-1351,"Walsh, Fletcher and Roberson strategize",Technology,Phones,12.45,5.65
+PD-1352,Williams Inc synergize,Office Supplies,Paper,13.23,3.08
+PD-1353,"Ali, Moss and May unleash",Technology,Phones,18.17,6.65
+PD-1354,"Hale, Butler and Cunningham leverage",Technology,Phones,27.03,6.08
+PD-1355,Rhodes-Larson redefine,Technology,Phones,4.67,2.04
+PD-1356,"Ali, Perez and Hammond exploit",Technology,Phones,13.14,2.73
+PD-1357,Adams-Reyes maximize,Office Supplies,Storage,8.87,2.48
+PD-1358,Chang Inc harness,Furniture,Chairs,18.43,6.85
+PD-1359,"Young, Bradley and Anderson syndicate",Furniture,Furnishings,28.1,10.3
+PD-1360,"Conley, Nguyen and Fox visualize",Office Supplies,Binders,27.94,5.6
+PD-1361,Johnson LLC enhance,Office Supplies,Storage,4.43,1.42
+PD-1362,Williams-Mitchell brand,Technology,Accessories,5.52,1.62
+PD-1363,Gross-Miller transform,Furniture,Furnishings,13.92,6.34
+PD-1364,Sanders Ltd harness,Office Supplies,Fasteners,19.45,5.98
+PD-1365,Chang PLC integrate,Technology,Accessories,27.02,8.47
+PD-1366,Munoz-Miller harness,Technology,Phones,12.24,3.1
+PD-1367,"Collins, Herrera and Mendez reinvent",Technology,Accessories,2.67,0.57
+PD-1368,Monroe-Sanders orchestrate,Technology,Accessories,13.6,5.88
+PD-1369,Morse-Bullock unleash,Furniture,Bookcases,2.42,0.84
+PD-1370,Salazar LLC re-contextualize,Technology,Phones,23.67,9.62
+PD-1371,Brown-Schwartz engage,Technology,Accessories,15.03,7.73
+PD-1372,Wall-Maxwell enable,Technology,Accessories,7.71,3.22
+PD-1373,Mitchell-Vincent disintermediate,Office Supplies,Envelopes,20.99,7.54
+PD-1374,"Bush, Kelley and Soto incubate",Technology,Accessories,20.38,10.51
+PD-1375,"Morgan, Conner and Miller implement",Technology,Accessories,17.94,8.58
+PD-1376,"Wang, Benitez and Winters engineer",Office Supplies,Paper,24.59,12.26
+PD-1377,"Gray, Spencer and Liu synthesize",Technology,Phones,3.42,0.72
+PD-1378,Kerr Ltd grow,Office Supplies,Fasteners,6.1,2.94
+PD-1379,Summers-Torres syndicate,Technology,Phones,17.1,9.65
+PD-1380,Erickson PLC cultivate,Furniture,Furnishings,21.51,4.31
+PD-1381,Roman Inc transform,Office Supplies,Paper,5.95,1.8
+PD-1382,Watson-Avila syndicate,Furniture,Chairs,22.71,7.93
+PD-1383,Parker and Sons incubate,Technology,Phones,8.13,3.15
+PD-1384,"Rollins, Wilson and Huff extend",Technology,Accessories,3.84,1.53
+PD-1385,Mcclain-Roberts integrate,Technology,Phones,6.99,2.62
+PD-1386,Ruiz-Hunt deploy,Technology,Accessories,7.11,3.5
+PD-1387,Guerrero-Meza extend,Technology,Phones,12.92,2.87
+PD-1388,"Hall, Pace and Smith scale",Office Supplies,Storage,18.2,10.0
+PD-1389,Garcia-Romero integrate,Furniture,Chairs,17.25,5.45
+PD-1390,Black-Lewis incubate,Office Supplies,Envelopes,4.15,2.36
+PD-1391,Gutierrez-Ramirez strategize,Technology,Accessories,19.92,10.66
+PD-1392,"Walls, Hughes and Michael maximize",Technology,Accessories,2.28,1.19
+PD-1393,"Moran, Escobar and Roth grow",Technology,Accessories,21.4,7.89
+PD-1394,King-Griffin optimize,Office Supplies,Binders,17.47,10.4
+PD-1395,"Montoya, Rose and Marshall disintermediate",Technology,Phones,19.94,9.18
+PD-1396,Hoffman-Carter embrace,Office Supplies,Paper,26.95,7.13
+PD-1397,Camacho-Mccarthy scale,Technology,Accessories,19.65,6.43
+PD-1398,"Woodard, Anderson and Harris incentivize",Furniture,Bookcases,28.62,16.83
+PD-1399,"Matthews, Hahn and Murray re-intermediate",Furniture,Chairs,19.57,4.41
+PD-1400,Castaneda-Diaz visualize,Office Supplies,Binders,22.72,8.04
+PD-1401,"Brewer, Rice and Sharp incentivize",Furniture,Furnishings,23.04,9.11
+PD-1402,"Mitchell, Fields and Roberts aggregate",Furniture,Furnishings,26.93,9.6
+PD-1403,Roy Ltd enhance,Office Supplies,Binders,19.47,5.38
+PD-1404,Johnson Inc streamline,Technology,Phones,13.37,7.39
+PD-1405,Brown-Mcgee incentivize,Office Supplies,Binders,10.68,4.98
+PD-1406,Mcbride LLC iterate,Technology,Accessories,19.54,7.57
+PD-1407,"Patrick, Crawford and Obrien incubate",Technology,Accessories,5.64,1.87
+PD-1408,Wang Inc iterate,Furniture,Chairs,2.89,0.78
+PD-1409,"Roberts, Gutierrez and Davis repurpose",Technology,Accessories,30.06,13.91
+PD-1410,"Morris, Perkins and Taylor envisioneer",Furniture,Bookcases,3.84,1.68
+PD-1411,Hopkins-Duarte strategize,Office Supplies,Fasteners,16.7,6.55
+PD-1412,Hanson-Smith aggregate,Furniture,Furnishings,17.62,4.33
+PD-1413,Schmidt-Cardenas revolutionize,Technology,Phones,30.3,7.76
+PD-1414,Day and Sons repurpose,Technology,Phones,5.08,2.88
+PD-1415,Lopez PLC optimize,Furniture,Bookcases,28.7,15.26
+PD-1416,Reynolds PLC redefine,Office Supplies,Binders,9.52,5.37
+PD-1417,Davis-Francis incentivize,Technology,Accessories,11.79,3.08
+PD-1418,Bailey Group architect,Furniture,Bookcases,7.73,4.29
+PD-1419,Fowler-Johnson incentivize,Furniture,Furnishings,26.29,12.48
+PD-1420,"Palmer, Cooper and Dickson brand",Technology,Phones,3.28,1.27
+PD-1421,"Vang, Lara and Sandoval transition",Office Supplies,Art,15.61,3.62
+PD-1422,Mcdonald Group whiteboard,Technology,Accessories,10.33,2.74
+PD-1423,Collins-Flores orchestrate,Technology,Accessories,13.45,6.42
+PD-1424,Holmes-Rivera integrate,Technology,Accessories,5.46,1.76
+PD-1425,Hull-Parsons facilitate,Office Supplies,Envelopes,9.04,4.63
+PD-1426,Villegas Group streamline,Technology,Accessories,6.29,1.89
+PD-1427,Ryan Ltd optimize,Technology,Accessories,17.88,5.95
+PD-1428,Gray-Edwards productize,Office Supplies,Storage,9.0,3.18
+PD-1429,Buck LLC engineer,Office Supplies,Storage,29.31,11.37
+PD-1430,"Stewart, Cook and Perry grow",Office Supplies,Binders,9.78,4.23
+PD-1431,"Peters, Peterson and Martin harness",Furniture,Furnishings,22.07,12.13
+PD-1432,"Brown, Ramirez and Trujillo cultivate",Technology,Accessories,15.36,4.7
+PD-1433,Robinson-Smith integrate,Office Supplies,Paper,15.66,6.35
+PD-1434,Carpenter Ltd drive,Office Supplies,Paper,15.39,7.36
+PD-1435,"Jackson, Crosby and Brown mesh",Furniture,Furnishings,7.37,1.8
+PD-1436,Fox-Schmidt brand,Technology,Phones,25.02,14.83
+PD-1437,Bowers PLC reinvent,Technology,Accessories,23.3,12.91
+PD-1438,Green-Kirk empower,Furniture,Bookcases,2.68,1.36
+PD-1439,Rodriguez LLC orchestrate,Technology,Accessories,22.68,12.23
+PD-1440,"King, Singleton and Harding enable",Technology,Phones,7.97,3.44
+PD-1441,Mccall-Sanchez scale,Office Supplies,Paper,22.41,11.04
+PD-1442,"Clark, Thomas and Jones re-intermediate",Technology,Phones,28.45,10.56
+PD-1443,"Davis, King and Christensen iterate",Office Supplies,Binders,12.54,7.15
+PD-1444,Smith Ltd grow,Office Supplies,Binders,23.13,10.93
+PD-1445,"Melendez, Blake and Harvey evolve",Office Supplies,Art,9.37,2.36
+PD-1446,Hughes-Larson iterate,Furniture,Chairs,7.0,1.73
+PD-1447,"Dunn, Kelly and Allison incubate",Technology,Accessories,11.76,2.96
+PD-1448,Horton-Cook engineer,Furniture,Chairs,4.55,2.44
+PD-1449,"Stewart, Thompson and Gonzales incubate",Office Supplies,Art,21.14,12.01
+PD-1450,Brown-Smith mesh,Technology,Phones,18.58,8.45
+PD-1451,"Dawson, Ortiz and Wilcox enable",Furniture,Furnishings,23.48,13.51
+PD-1452,"Clements, Craig and Parsons generate",Technology,Phones,4.89,2.07
+PD-1453,Johnson PLC target,Technology,Phones,28.63,8.17
+PD-1454,"Short, Lindsey and Hines benchmark",Office Supplies,Envelopes,18.84,4.09
+PD-1455,"Frank, Nguyen and Howard repurpose",Technology,Phones,21.21,10.27
+PD-1456,"Ward, Brown and Martinez expedite",Furniture,Furnishings,28.32,8.44
+PD-1457,Thompson and Sons orchestrate,Furniture,Furnishings,30.28,16.45
+PD-1458,Logan PLC transition,Furniture,Furnishings,16.08,7.06
+PD-1459,Richardson-Morgan transition,Furniture,Chairs,14.41,7.53
+PD-1460,Cain LLC revolutionize,Furniture,Furnishings,16.14,8.39
+PD-1461,Diaz-Gomez exploit,Furniture,Furnishings,7.44,4.28
+PD-1462,Harvey Inc optimize,Furniture,Furnishings,11.37,6.82
+PD-1463,Kramer Ltd benchmark,Office Supplies,Paper,8.46,2.08
+PD-1464,Mccarty-Wheeler optimize,Technology,Accessories,15.2,5.45
+PD-1465,Roberts-Johnson matrix,Furniture,Furnishings,14.42,7.24
+PD-1466,Walker Inc reinvent,Technology,Accessories,20.14,9.77
+PD-1467,Ellis-Franklin engage,Office Supplies,Art,4.43,1.78
+PD-1468,Griffin Inc extend,Office Supplies,Art,18.4,7.84
+PD-1469,Anthony LLC implement,Technology,Accessories,19.23,5.8
+PD-1470,Lee PLC brand,Technology,Phones,28.76,7.08
+PD-1471,"Hicks, Jones and Roach optimize",Office Supplies,Storage,17.49,7.46
+PD-1472,"Taylor, Palmer and Martinez maximize",Furniture,Bookcases,4.8,2.16
+PD-1473,"Torres, Warren and Peters transform",Technology,Phones,21.04,11.37
+PD-1474,"Smith, Jones and Torres reinvent",Office Supplies,Paper,28.73,5.97
+PD-1475,"Kane, Maddox and Gomez enable",Technology,Accessories,10.93,4.6
+PD-1476,"Moore, Harris and Robbins evolve",Furniture,Bookcases,28.21,8.63
+PD-1477,Lawson Group revolutionize,Technology,Accessories,16.81,8.01
+PD-1478,Thomas LLC benchmark,Technology,Phones,30.01,12.64
+PD-1479,Wilson Group target,Office Supplies,Fasteners,28.9,15.96
+PD-1480,Johnson and Sons envisioneer,Technology,Accessories,16.79,7.54
+PD-1481,Davidson-Smith optimize,Furniture,Bookcases,19.75,6.75
+PD-1482,Martinez PLC enable,Technology,Accessories,17.3,4.09
+PD-1483,Garcia-Fields repurpose,Furniture,Bookcases,10.61,5.39
+PD-1484,Myers and Sons optimize,Technology,Phones,16.26,3.84
+PD-1485,Griffith-Stanley strategize,Office Supplies,Fasteners,9.97,2.53
+PD-1486,Griffin LLC harness,Technology,Accessories,13.76,2.94
+PD-1487,"Reyes, Vaughn and Wiley embrace",Furniture,Chairs,19.45,10.55
+PD-1488,"Hill, Hernandez and Mullins iterate",Technology,Accessories,29.28,14.95
+PD-1489,Howell PLC envisioneer,Furniture,Furnishings,20.32,5.4
+PD-1490,"Collins, Chang and Weiss productize",Office Supplies,Paper,8.08,2.58
+PD-1491,"Bishop, Brown and Williams reinvent",Furniture,Furnishings,29.27,14.68
+PD-1492,"Wright, Mcmillan and Lewis e-enable",Technology,Phones,29.89,6.48
+PD-1493,Morgan-Mcdaniel syndicate,Furniture,Furnishings,10.44,5.99
+PD-1494,"Mckay, Taylor and Malone re-intermediate",Furniture,Furnishings,22.94,7.52
+PD-1495,"Kirby, Munoz and Cannon extend",Furniture,Chairs,4.74,1.22
+PD-1496,"Bradley, Giles and Rice extend",Office Supplies,Paper,13.97,3.25
+PD-1497,"Watson, Moss and Melendez evolve",Office Supplies,Art,5.2,1.08
+PD-1498,Hogan and Sons reinvent,Furniture,Bookcases,27.17,7.86
+PD-1499,"Moore, Moore and Cole transform",Furniture,Bookcases,10.77,3.42
+PD-1500,"Taylor, Jones and Benjamin utilize",Furniture,Furnishings,13.67,5.82
+PD-1501,"Richardson, Snyder and Snyder re-intermediate",Technology,Phones,14.85,7.07
+PD-1502,"Shaw, Anderson and Martinez envisioneer",Technology,Accessories,20.96,6.19
+PD-1503,Ortega-White strategize,Office Supplies,Fasteners,8.05,2.35
+PD-1504,Maxwell LLC transition,Office Supplies,Storage,19.44,7.05
+PD-1505,Smith-Chase brand,Technology,Phones,14.89,8.26
+PD-1506,Fry-Beltran unleash,Furniture,Furnishings,17.76,8.98
+PD-1507,Sexton PLC drive,Technology,Phones,7.17,1.44
+PD-1508,Richard-Sanchez harness,Furniture,Chairs,6.22,2.22
+PD-1509,Jones-Williams visualize,Technology,Phones,21.41,7.26
+PD-1510,Pearson LLC optimize,Furniture,Bookcases,29.53,14.85
+PD-1511,Goodwin-Clark reinvent,Office Supplies,Fasteners,19.5,10.99
+PD-1512,Rivera-Greene target,Technology,Phones,17.06,8.85
+PD-1513,"Bryant, Taylor and Williams architect",Furniture,Bookcases,28.99,17.32
+PD-1514,Good-Terry exploit,Furniture,Chairs,18.8,10.56
+PD-1515,Neal-Sullivan disintermediate,Office Supplies,Envelopes,24.6,5.38
+PD-1516,Knight PLC reinvent,Technology,Accessories,5.97,2.32
+PD-1517,"White, Parker and Miller strategize",Furniture,Furnishings,20.65,11.33
+PD-1518,Riddle-Williams benchmark,Office Supplies,Art,14.55,5.17
+PD-1519,Stewart-Gutierrez benchmark,Furniture,Furnishings,22.97,6.18
+PD-1520,Gonzales Inc enable,Technology,Accessories,27.5,16.13
+PD-1521,Stewart-Gill exploit,Office Supplies,Paper,22.76,5.89
+PD-1522,Gonzalez and Sons re-intermediate,Office Supplies,Binders,2.96,1.25
+PD-1523,Hicks Ltd scale,Office Supplies,Binders,11.8,4.34
+PD-1524,Hayes LLC envisioneer,Office Supplies,Art,27.4,9.44
+PD-1525,Morse LLC architect,Furniture,Bookcases,28.71,10.39
+PD-1526,Ingram Group engage,Technology,Phones,27.62,12.95
+PD-1527,Blair Inc unleash,Office Supplies,Binders,19.71,5.67
+PD-1528,Smith Ltd empower,Furniture,Chairs,28.01,15.46
+PD-1529,"Brown, Mcbride and Gross re-intermediate",Technology,Accessories,28.43,8.83
+PD-1530,"Cabrera, Mccall and Henderson orchestrate",Furniture,Bookcases,10.76,3.23
+PD-1531,"Bailey, Ramos and Hill deploy",Furniture,Furnishings,29.75,13.83
+PD-1532,Logan LLC innovate,Technology,Phones,29.95,7.79
+PD-1533,"Wilson, Garcia and Watson streamline",Furniture,Bookcases,19.38,6.06
+PD-1534,"Miranda, Williams and Dillon monetize",Technology,Phones,23.41,9.35
+PD-1535,Cooper and Sons enable,Office Supplies,Fasteners,28.99,10.17
+PD-1536,"Smith, Allen and Kennedy grow",Office Supplies,Paper,26.75,10.33
+PD-1537,Hammond-Zimmerman reinvent,Technology,Phones,4.59,2.08
+PD-1538,"Singh, Kim and Collins exploit",Office Supplies,Fasteners,16.08,6.7
+PD-1539,"Washington, Joyce and Woods engage",Technology,Accessories,22.15,8.89
+PD-1540,"Tate, Owens and Curtis enhance",Technology,Phones,14.25,7.06
+PD-1541,"Vincent, Vaughn and Weaver scale",Furniture,Chairs,8.59,2.65
+PD-1542,Russell LLC transition,Furniture,Chairs,10.94,3.04
+PD-1543,Benitez Ltd extend,Furniture,Furnishings,25.67,11.77
+PD-1544,Hatfield-Atkinson redefine,Office Supplies,Envelopes,21.39,8.01
+PD-1545,"Mckee, Sims and Moreno re-contextualize",Technology,Accessories,28.8,10.62
+PD-1546,Bennett PLC scale,Office Supplies,Art,4.32,1.65
+PD-1547,Alvarez PLC revolutionize,Furniture,Bookcases,14.25,3.74
+PD-1548,Dalton-Bell streamline,Office Supplies,Art,7.15,2.2
+PD-1549,Hudson Group aggregate,Furniture,Bookcases,23.94,7.11
+PD-1550,"Henderson, Davis and Rodriguez unleash",Office Supplies,Art,11.52,6.48
+PD-1551,Taylor-Coleman facilitate,Furniture,Chairs,19.31,6.65
+PD-1552,Hall Inc e-enable,Technology,Accessories,21.44,11.29
+PD-1553,Blackwell-Conrad revolutionize,Technology,Accessories,14.65,3.93
+PD-1554,"Bryant, Acosta and Cooper e-enable",Furniture,Bookcases,13.15,6.08
+PD-1555,"Edwards, Wall and Collins streamline",Furniture,Furnishings,27.44,12.31
+PD-1556,Molina Inc productize,Office Supplies,Art,13.98,4.2
+PD-1557,Frederick and Sons incubate,Office Supplies,Fasteners,25.06,6.78
+PD-1558,"Jackson, Cox and Williams cultivate",Office Supplies,Paper,17.13,4.37
+PD-1559,"Gonzalez, Davis and Coleman aggregate",Office Supplies,Storage,5.49,3.2
+PD-1560,"Sellers, Harris and Ellis unleash",Furniture,Bookcases,24.35,13.8
+PD-1561,"Vaughn, Thomas and Ortiz streamline",Technology,Phones,29.06,6.91
+PD-1562,Galloway-Bates strategize,Furniture,Bookcases,19.7,5.12
+PD-1563,"Moreno, Duarte and Acosta generate",Technology,Phones,7.23,4.28
+PD-1564,Johnston Group engineer,Office Supplies,Fasteners,26.81,8.62
+PD-1565,Matthews-Rivera e-enable,Office Supplies,Paper,15.74,8.66
+PD-1566,Martin-Duncan cultivate,Furniture,Furnishings,26.33,14.79
+PD-1567,Evans-Rogers transition,Technology,Accessories,10.11,5.49
+PD-1568,Morris LLC implement,Technology,Phones,3.44,0.74
+PD-1569,Lowery PLC engineer,Technology,Accessories,20.5,10.45
+PD-1570,Franco-Hill scale,Technology,Phones,9.3,5.33
+PD-1571,Walton-Clarke drive,Office Supplies,Envelopes,3.38,1.75
+PD-1572,Joyce-Shaffer engage,Office Supplies,Art,20.37,8.5
+PD-1573,Willis Ltd synthesize,Office Supplies,Fasteners,21.44,6.45
+PD-1574,Harrison-Owens streamline,Technology,Phones,13.55,7.07
+PD-1575,Jackson-Garcia enhance,Technology,Accessories,21.41,11.42
+PD-1576,Curry-Peters streamline,Office Supplies,Envelopes,11.4,4.91
+PD-1577,Scott-Hawkins streamline,Technology,Accessories,3.82,2.05
+PD-1578,"Clayton, Doyle and Lam strategize",Technology,Accessories,27.42,10.39
+PD-1579,"Morgan, Hartman and Walker harness",Office Supplies,Envelopes,15.91,3.48
+PD-1580,Hancock and Sons reinvent,Office Supplies,Art,6.36,3.6
+PD-1581,Mitchell-Lee enable,Furniture,Bookcases,25.26,9.45
+PD-1582,"Simmons, Medina and Davis e-enable",Furniture,Furnishings,22.16,7.97
+PD-1583,Hayden Inc repurpose,Technology,Accessories,17.73,8.27
+PD-1584,Haynes-Davis orchestrate,Furniture,Furnishings,14.34,8.47
+PD-1585,"Paul, Black and Walls benchmark",Furniture,Chairs,23.35,13.04
+PD-1586,Fields-Fisher envisioneer,Office Supplies,Fasteners,21.6,10.57
+PD-1587,Nelson LLC enhance,Furniture,Bookcases,11.27,3.71
+PD-1588,Mcdonald-Castro generate,Furniture,Bookcases,5.97,1.29
+PD-1589,Blake and Sons engage,Furniture,Bookcases,17.11,7.1
+PD-1590,Kelley LLC empower,Technology,Phones,23.93,10.51
+PD-1591,Skinner Group redefine,Office Supplies,Storage,9.09,5.32
+PD-1592,"Brewer, Austin and Clements incentivize",Technology,Accessories,23.48,8.59
+PD-1593,"Little, Greene and Garcia re-contextualize",Furniture,Chairs,11.86,3.31
+PD-1594,Brown and Sons orchestrate,Office Supplies,Binders,18.69,3.74
+PD-1595,Moore-Jones envisioneer,Office Supplies,Binders,12.53,7.2
+PD-1596,Baldwin-Massey benchmark,Furniture,Bookcases,27.11,12.4
+PD-1597,"Scott, Hayes and Smith re-contextualize",Office Supplies,Paper,23.56,12.33
+PD-1598,Ruiz-Decker re-contextualize,Technology,Accessories,27.48,12.3
+PD-1599,Fields-Petersen enable,Technology,Phones,3.87,1.72
+PD-1600,Barron and Sons harness,Technology,Accessories,5.5,1.25
+PD-1601,"May, Barnes and Carr scale",Technology,Accessories,15.09,4.48
+PD-1602,"Bailey, White and Whitney implement",Office Supplies,Storage,3.77,1.13
+PD-1603,"Gonzalez, Martinez and Jones iterate",Furniture,Chairs,21.34,12.06
+PD-1604,"Burgess, Rivas and Barrett empower",Technology,Accessories,18.67,3.87
+PD-1605,"Douglas, Bryant and Cannon empower",Furniture,Chairs,13.17,3.65
+PD-1606,"Hickman, Gray and Costa unleash",Technology,Accessories,29.79,13.62
+PD-1607,Reid and Sons deliver,Office Supplies,Fasteners,15.83,5.96
+PD-1608,Jones Group matrix,Office Supplies,Envelopes,24.62,5.87
+PD-1609,"Dean, Coffey and Waller synergize",Office Supplies,Fasteners,23.52,10.18
+PD-1610,Frye-Powell visualize,Furniture,Chairs,23.68,5.72
+PD-1611,Jones PLC redefine,Furniture,Bookcases,15.15,7.16
+PD-1612,Green and Sons utilize,Technology,Accessories,29.61,15.17
+PD-1613,Carr-Chase matrix,Office Supplies,Art,13.96,7.2
+PD-1614,Hoffman PLC incentivize,Furniture,Bookcases,19.16,9.97
+PD-1615,"Arroyo, Clark and Steele leverage",Office Supplies,Envelopes,27.8,10.6
+PD-1616,Fields LLC streamline,Office Supplies,Paper,20.48,9.31
+PD-1617,Davis LLC architect,Furniture,Furnishings,27.68,8.54
