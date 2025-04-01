@@ -1,10 +1,10 @@
 # Costco_Sales_Analysis-PowerBI-Dashboard
-📝 Project Overview
+## 📝 Project Overview
 The Costco Sales Data Analytics project provides an in-depth analysis of Costco's sales trends, customer preferences, and revenue distribution. The dataset includes multiple files containing customer details, product information, and sales orders. This project aims to extract actionable insights by leveraging Power BI, Python, SQL, and Excel.
 
 The analysis covers key business metrics such as total revenue, total profit, order count, and product performance. It helps in identifying sales trends, understanding customer behavior, and optimizing sales strategies for better business decisions.
 
-📈 Key Insights from Analysis
+## 📈 Key Insights from Analysis
 📌 Overall Business Performance (2022)
 Total Revenue: $0.4 Million
 
@@ -25,7 +25,7 @@ Consumer: 33.04%
 
 Home Office: 30.64%
 
-💰 Top-Selling Products
+## 💰 Top-Selling Products
 Product Name	Total Revenue	Total Profit	Total Quantity	Total Orders
 Hill-Murray Seize	$1,342.25	$970.1	46	5
 Taylor, Guerrero, and House	$1,555.90	$879.3	68	6
@@ -37,7 +37,7 @@ The revenue consistently increased over the months, with some fluctuations.
 
 The highest sales were recorded in Q4 2022 due to seasonal demand.
 
-📂 Project Structure
+## 📂 Project Structure
 File Name	Description
 Costco_Sales.pbix	Power BI file containing the interactive dashboard
 Costco_Sales_Report.pdf	Summary report with key insights
@@ -58,7 +58,7 @@ Run SQL queries to extract meaningful insights from the structured sales data.
 📌 3. Read the Summary Report
 Check Costco_Sales_Report.pdf for key insights and findings.
 
-📊 Key Visualizations in Power BI
+## 📊 Key Visualizations in Power BI
 Revenue & Profit Trends 📈 – Shows the monthly performance of total revenue and profit.
 
 Orders vs Target 🎯 – Helps in tracking whether sales met the expected targets.
@@ -67,11 +67,11 @@ Customer Segmentation 👥 – Displays sales distribution by corporate, consume
 
 Top Performing Products 🔥 – Highlights the best-selling and most profitable products.
 
-📌 Conclusion
+## 📌 Conclusion
 The Costco Sales Data Analytics project provides valuable insights into sales performance, customer preferences, and product demand. The findings can help businesses optimize inventory, target high-value customer segments, and improve sales strategies.
 
 This project serves as a powerful analytical tool for data-driven decision-making in retail sales.
 
-🖇 LinkedIn Post Link
+## 🖇 LinkedIn Post Link
 📢 I have published this project on LinkedIn! You can check it out and engage with the post here:
 🔗 LinkedIn Post (Replace with actual link after posting)
