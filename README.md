@@ -74,4 +74,5 @@ This project serves as a powerful analytical tool for data-driven decision-makin
 
 ## 🖇 LinkedIn Post Link
 📢 I have published this project on LinkedIn! You can check it out and engage with the post here:
-🔗 LinkedIn Post (Replace with actual link after posting)
+🔗 LinkedIn Post (https://www.linkedin.com/in/jameel-ahmed9/recent-activity/all/)
+🔗 Power BI Dashboard: Link to PowerBI Workspace (https://lnkd.in/e7PJY-uE)
